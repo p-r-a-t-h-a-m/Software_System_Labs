@@ -9,7 +9,6 @@ public class Player_Movement : MonoBehaviour
     [SerializeField] private float speed;
     private Rigidbody2D body;
     private Animator anim;
-    private bool grounded;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -43,11 +42,11 @@ public class Player_Movement : MonoBehaviour
     private void jump()
     {
         body.velocity=new Vector2(body.velocity.x, speed);
-        grounded=false;
+        anim.SetTrigger("jump");
     }
-    private void onCollisionEnter2D(Collision2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Ground")
-            grounded=true;
+
     }
 }
