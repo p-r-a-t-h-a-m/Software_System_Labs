@@ -106,206 +106,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ground12
-      rect:
-        serializedVersion: 2
-        x: 7329
-        y: 895
-        width: 671
-        height: 255
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95ef528d6e97d4049b081fbd33340789
-      internalID: 840381589
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground6
-      rect:
-        serializedVersion: 2
-        x: 4550
-        y: 85
-        width: 656
-        height: 306
-      alignment: 9
-      pivot: {x: 0.40613908, y: 0.6316651}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7592edbda7a9bca46bdf6a3d5085aa6e
-      internalID: -1561448982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground9_above_bb
-      rect:
-        serializedVersion: 2
-        x: 6211
-        y: 822
-        width: 91
-        height: 207
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 095325389e92c3346a08a23192757c0d
-      internalID: -211396146
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sky1
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 708
-        width: 4351
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e2728cab5a4da1342bf07fd330e0e70c
-      internalID: -953290846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground13
-      rect:
-        serializedVersion: 2
-        x: 6368
-        y: 663
-        width: 922
-        height: 174
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5715d5a05e1852c4ebaf489d5c15691e
-      internalID: -457877961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: extra2
-      rect:
-        serializedVersion: 2
-        x: 7702
-        y: 743
-        width: 301
-        height: 131
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37d44ac160337214d905c721ca4dd9b0
-      internalID: 838501804
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: extra1
-      rect:
-        serializedVersion: 2
-        x: 7326
-        y: 741
-        width: 369
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d633e94cb1b91314a96ca75e73b9934e
-      internalID: -2027953529
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: graound1
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 319
-        width: 816
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7aa058f1fcdf6e74f8a6048b3851178c
-      internalID: 1987428396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground10
-      rect:
-        serializedVersion: 2
-        x: 6056
-        y: 393
-        width: 1350
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b602a7d745fa48f4e83cfc28fed84650
-      internalID: -1984568622
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Mission 1_81
       rect:
         serializedVersion: 2
-        x: 6399
-        y: 313
-        width: 95
-        height: 74
+        x: 6772
+        y: 92
+        width: 134
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,13 +144,34 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_wall1
+      name: Mission 1_0
       rect:
         serializedVersion: 2
-        x: 6785
-        y: 122
-        width: 111
-        height: 257
+        x: 36
+        y: 697
+        width: 4347
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1654, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbd328604bc5df458ccab1f503997c9
+      internalID: 628364073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_1
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 900
+        width: 40
+        height: 284
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,19 +179,1699 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce436afe821477144935fc447dbc7d4c
-      internalID: -1296351033
+      spriteID: b4ec609fdfe8cdb419463632f4e713c8
+      internalID: -2059816432
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_wall2
+      name: Mission 1_2
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 864
+        width: 673
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec1c5b23a57ae4eaaaeb309a5d0336
+      internalID: -927493213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_3
+      rect:
+        serializedVersion: 2
+        x: 7568
+        y: 1180
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fff9f73a9d5e7468b8f4e59bc437d8
+      internalID: 1512998289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_4
+      rect:
+        serializedVersion: 2
+        x: 7588
+        y: 1180
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a40014e594998146accf9c2a5b2dfb6
+      internalID: -1156887808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_5
+      rect:
+        serializedVersion: 2
+        x: 7672
+        y: 1180
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ee435e5744e6408c01f0edd154d27
+      internalID: 312151353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1093
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71070505f879e24ea0147d064d9e9f3
+      internalID: -951929481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1094
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436244301f11d9f408f3a74c276dc5ed
+      internalID: -993831697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1094
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b156568be5739b40b40296bd4edd67d
+      internalID: 723323508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_9
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1094
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221f9d89a2482ea46a2fa31abbbfe9de
+      internalID: 2136886469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_10
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1093
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850df124f3a45914880d3337a8714151
+      internalID: -455762819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1093
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e3f7d73602514eae295ebccdfb506
+      internalID: 572660751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1094
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25dd71e5ab89c45488faf159357a242a
+      internalID: 712571307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_13
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1093
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7789bdf3e8d68794db526993c2f02a3e
+      internalID: -1559876000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1093
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38ffc1e1022f0a4eaba07b53ac5eb22
+      internalID: -1649102074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1093
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157f2116ccb7702478e1ccd7c5a2d7a1
+      internalID: -876511973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1093
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb343d69aea92d148a4003102e3b11fd
+      internalID: -672533072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1093
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccb3838f081a5548ae95e25721a07f4
+      internalID: -298805457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1094
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53678165bc1aedd449600accc3d860df
+      internalID: -300622573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_19
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1094
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f2f1113df2194c81195afdcb12920
+      internalID: 243351630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_20
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1051
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91907e24f1e39dd40a3d862272c40dfa
+      internalID: 2019042726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1050
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fb8c5d33d1ce498d3e8410d076749
+      internalID: -955266400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1051
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd87c8793eda04c9208c2393354bab
+      internalID: -716087830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1051
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1640e481d2ca31d499cef2d5c252e74c
+      internalID: -491826537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1051
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6818986c113bf2d4ebe9986746913699
+      internalID: 454060889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_25
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1050
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42c49990607b74b881106643bd7cde
+      internalID: 1453763334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_26
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1051
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c85f229a927794ca9688a5f0562f1f
+      internalID: 1854466903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1051
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e236bf9359dd1d84b98fe0dbd2b213e7
+      internalID: 1256905831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1050
+        width: 79
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48bcae5e329c449835d4989958bb80
+      internalID: -1428132476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1051
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a33f3bb891ff5c42a46395dea1a0736
+      internalID: 1490389323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1051
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3ba45e886745142baef63418c908bf
+      internalID: -1028369042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_31
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1051
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b8d3690e453434a812a7fc401fb0ff
+      internalID: 1038036609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_32
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1051
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ee9b578b8dd5643b871df4792761f6
+      internalID: -353307045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_33
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1051
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8241f0f668914b64aabf2433c5899398
+      internalID: -208852353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_34
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1050
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61b5fb40d8a7c540a2e8193361eee82
+      internalID: -1778067580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_35
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1051
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772fef9d967d4e545801d7d94f93634a
+      internalID: -770500021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_36
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1050
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c13e552d4bf8409ce804f3f94d1a6
+      internalID: 1053573382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_37
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1051
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d9a1b507ecdfe468f475ac31b69035
+      internalID: 1349883002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_38
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1051
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7017938ab968484eaaf58411ac4907f
+      internalID: -1550344029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_39
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 75
+        width: 1690
+        height: 984
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a7c51283207a4484cd7d8f51f92d0
+      internalID: 1372641185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_40
+      rect:
+        serializedVersion: 2
+        x: 6096
+        y: 1043
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391a5b71ec0eac45b8eaa61a280f517
+      internalID: 569991044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_41
+      rect:
+        serializedVersion: 2
+        x: 6168
+        y: 1050
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af3d39915fd744d9df9103e3e9ff86
+      internalID: -1466422626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_42
+      rect:
+        serializedVersion: 2
+        x: 6188
+        y: 1048
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c4b37161e8a4f449e49cb0d239e989
+      internalID: 1811418705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_43
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 1044
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a11a33c28f6de4f8467e5bad9cc112
+      internalID: -2139945281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_44
+      rect:
+        serializedVersion: 2
+        x: 6196
+        y: 1040
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f22b9619871a54b983665a1e110b8a
+      internalID: -1650814547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_45
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 1036
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d7ff1a932c954ea0757bb27318e63
+      internalID: -438625851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_46
+      rect:
+        serializedVersion: 2
+        x: 6204
+        y: 1032
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3e40a25c73054085d24b13753789e
+      internalID: -1369198718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_47
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 1028
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35e40b86fb778449ad0d92a529f1b65
+      internalID: -1326129205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_48
+      rect:
+        serializedVersion: 2
+        x: 6211
+        y: 736
+        width: 126
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37c8da05b863064183071d66e5b6a72
+      internalID: -681015657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_49
+      rect:
+        serializedVersion: 2
+        x: 6224
+        y: 1024
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c059b1c9d5c63864b86f5db74c94264a
+      internalID: -1560485174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_50
+      rect:
+        serializedVersion: 2
+        x: 6276
+        y: 1016
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88039875de49d064daebf99632f60b44
+      internalID: 1470206244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_51
+      rect:
+        serializedVersion: 2
+        x: 6332
+        y: 984
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad5044a566336348b96be87f0fefbb0
+      internalID: -778470945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 744
+        width: 4069
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e788869dd59443a731fd2147b33d5
+      internalID: 97314964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_53
+      rect:
+        serializedVersion: 2
+        x: 6355
+        y: 656
+        width: 934
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbe678870f7e7418cd79e2d4ce6269
+      internalID: 1053273106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_54
+      rect:
+        serializedVersion: 2
+        x: 6512
+        y: 864
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97d00ac0d3dd0342b418dd46d4496da
+      internalID: 982343687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_55
+      rect:
+        serializedVersion: 2
+        x: 6588
+        y: 864
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d049a6ba2863d4c94a37c1cbfa4c9d
+      internalID: -883809122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_56
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 864
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc5eee07421c547b064a7ad5748a69
+      internalID: 1475033398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_57
+      rect:
+        serializedVersion: 2
+        x: 7700
+        y: 712
+        width: 316
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac824d65a17e222499f23ea6972c18cf
+      internalID: -1658830341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_58
+      rect:
+        serializedVersion: 2
+        x: 7316
+        y: 803
+        width: 4
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955efaed795c6040b09c43e69cac8ea
+      internalID: 1477493538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_59
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 812
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a7114b117ae0c459d837e19cb0e7e5
+      internalID: -493640600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_60
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 800
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c3ce6e5d82a434c96262c0482356a8
+      internalID: -2019406482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_61
+      rect:
+        serializedVersion: 2
+        x: 7648
+        y: 788
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3f88e6416bb446acd7a94fb3fdd48
+      internalID: -1685362150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_62
+      rect:
+        serializedVersion: 2
+        x: 7328
+        y: 712
+        width: 368
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb3fed9ab29f78459a0e0e302af23f2
+      internalID: -1832986490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_63
+      rect:
+        serializedVersion: 2
+        x: 7368
+        y: 808
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9183d8b5fc4c48866e5a26a8453ae
+      internalID: -666719092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_64
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 804
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df49ef46c132a124385e16f8d79d9c01
+      internalID: 224725087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_65
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 793
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6bc2c51049fe048a4f2dedd9a33321
+      internalID: 2063974193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_66
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 788
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b434513a45c94aabba9bd7c4e7204
+      internalID: 752548445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_67
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 781
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4753b34182754745872f9eccdfe3c55
+      internalID: 39383705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_68
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 684
+        width: 4
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a52487b818b0e45b9d040558b5cd3c
+      internalID: -449994763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_69
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 680
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a67025e0ee12ce488ab94e907144841
+      internalID: 1664062437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_70
+      rect:
+        serializedVersion: 2
+        x: 7616
+        y: 712
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e04ed08df1e0448d7c5923b3dd38e
+      internalID: 592241390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_71
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 712
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6614350d09e1b0479669371335376e4
+      internalID: 1866486763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_72
+      rect:
+        serializedVersion: 2
+        x: 7696
+        y: 712
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef534cff088aa41900ccfeb5d2e2f9
+      internalID: 2061839926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_73
+      rect:
+        serializedVersion: 2
+        x: 7852
+        y: 712
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91cb2e134f9e844b8a9fcab4c2212f
+      internalID: 13128141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 4545
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e2ad92b37c3b4baf54055f6e84f48
+      internalID: 900171989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_75
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 666
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e389feebb0eca44683d8d79a1dc8061
+      internalID: -320805814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_76
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 676
+        width: 48
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413ef6f2a0d008448db60609a55e595
+      internalID: -1765961859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_77
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 360
+        width: 1921
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532acb448c96a804e82cd02d49e77092
+      internalID: 892736307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_78
+      rect:
+        serializedVersion: 2
+        x: 7976
+        y: 548
+        width: 32
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f082af7fb5f74aa4c1e92fbc10d13
+      internalID: -1007825592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_79
+      rect:
+        serializedVersion: 2
+        x: 4540
+        y: 476
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b21c4f1e0bb6649a60449fc5307a77
+      internalID: 485162538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_80
+      rect:
+        serializedVersion: 2
+        x: 6244
+        y: 304
+        width: 284
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2c2c89e7012964cbab1369dfea0933
+      internalID: -617653136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_82
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 384
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a493b0f70e8b9c4ca37dbe978b541c7
+      internalID: 1616104994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_83
       rect:
         serializedVersion: 2
         x: 6906
         y: 123
-        width: 110
+        width: 118
         height: 256
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -355,20 +1880,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 314bec8aaab19b944b8839a3a90e0215
-      internalID: 1081808051
+      spriteID: 25684f9ee43d81d4f8a221a2fd3d0776
+      internalID: 490251896
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_wall3
+      name: Mission 1_84
       rect:
         serializedVersion: 2
-        x: 7025
-        y: 123
-        width: 111
-        height: 256
+        x: 7020
+        y: 92
+        width: 124
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,41 +1901,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32d63e9b478edaa45abeb3c486bde560
-      internalID: 1560898146
+      spriteID: 97ae4a09d224f184aadbbe257f1ed01e
+      internalID: 1309638573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_wall4
+      name: Mission 1_85
       rect:
         serializedVersion: 2
-        x: 7145
-        y: 123
-        width: 111
-        height: 256
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6886058613d2e8e4a9fd698f7bbdf10b
-      internalID: -1046054686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground_wall5
-      rect:
-        serializedVersion: 2
-        x: 7271
-        y: 123
+        x: 7144
+        y: 92
         width: 140
-        height: 256
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,20 +1922,188 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4c561841aecd4a4390613dfabdec725
-      internalID: -490483806
+      spriteID: 16c193d147126ad4ebd8b3cd23cb8004
+      internalID: 1522967181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_gate3
+      name: Mission 1_86
+      rect:
+        serializedVersion: 2
+        x: 7268
+        y: 92
+        width: 145
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ae1fdccc45cf646b5486f27ebe7148
+      internalID: -1384108156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_87
+      rect:
+        serializedVersion: 2
+        x: 7978
+        y: 364
+        width: 30
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59552f84ebcd2414a9fe953d9a84d4d6
+      internalID: 1466406540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_88
+      rect:
+        serializedVersion: 2
+        x: 6380
+        y: 352
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff8e357ac4575949ac93f172a9818c8
+      internalID: -358266064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_89
+      rect:
+        serializedVersion: 2
+        x: 6684
+        y: 360
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83997b60e65dba546b558c95f523316c
+      internalID: 817389688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_90
+      rect:
+        serializedVersion: 2
+        x: 6740
+        y: 344
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a28b3aa75f63a64b928ead4f06912c2
+      internalID: -1415583534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_91
+      rect:
+        serializedVersion: 2
+        x: 7664
+        y: 360
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c8ad83c7d4b0a41861a27e88016086
+      internalID: 793507028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_92
+      rect:
+        serializedVersion: 2
+        x: 7840
+        y: 360
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd1f4572d0cf24a89d57898a6b0d2d
+      internalID: 1304271512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_93
+      rect:
+        serializedVersion: 2
+        x: 7912
+        y: 360
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3881deb647a4d448ba2badd097c993
+      internalID: 1868297328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_94
       rect:
         serializedVersion: 2
         x: 6402
-        y: 43
-        width: 175
-        height: 256
+        y: 12
+        width: 176
+        height: 316
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,20 +2111,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e432dba7187ed8b489ff98521c64608c
-      internalID: 807757494
+      spriteID: 95d2de0ffc5dec740bc874c72ecb6c7d
+      internalID: 390499628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_grass
+      name: Mission 1_95
       rect:
         serializedVersion: 2
-        x: 29
-        y: 16
-        width: 1193
-        height: 268
+        x: 6536
+        y: 300
+        width: 176
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,14 +2132,56 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1648c6f409cb6a04282baeb3d8e774d9
-      internalID: 839321874
+      spriteID: dde0b1eb004144a41a9876dd49bf67d8
+      internalID: -46938144
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_gate1
+      name: Mission 1_96
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 315
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed7f09c448e97e46a67b7b691271eaf
+      internalID: 1704864009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_97
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 1192
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54ae0ff36414df468561432639ee29e
+      internalID: 540795545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_98
       rect:
         serializedVersion: 2
         x: 6042
@@ -481,20 +2195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1345de4ac59e3f848a5bffd7906377ad
-      internalID: 1300056008
+      spriteID: 30f1eca5a54675944a480410a8d6641b
+      internalID: -1665611053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_gate2
+      name: Mission 1_99
       rect:
         serializedVersion: 2
-        x: 6223
-        y: 42
-        width: 174
-        height: 257
+        x: 6217
+        y: 12
+        width: 181
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -502,20 +2216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6cec5d0e04ee6647a9c43d4bc47fede
-      internalID: -845706924
+      spriteID: f327af50e5b939f43881ec001c3f2422
+      internalID: -959915709
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_gate4
+      name: Mission 1_100
       rect:
         serializedVersion: 2
-        x: 6581
-        y: 42
-        width: 176
-        height: 258
+        x: 6577
+        y: 12
+        width: 191
+        height: 287
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -523,20 +2237,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db16ca84fb390864f9e1af4f2badac26
-      internalID: -376627441
+      spriteID: aff9252b4ab2c504ba85c0554dcc87d8
+      internalID: -890121371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: extra4
+      name: Mission 1_101
+      rect:
+        serializedVersion: 2
+        x: 7405
+        y: 182
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872cafda15bcb934fac9152e9090f0e8
+      internalID: 1374187483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_102
       rect:
         serializedVersion: 2
         x: 7511
-        y: 123
-        width: 137
-        height: 50
+        y: 92
+        width: 181
+        height: 108
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -544,19 +2279,439 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 197c742fe86848a42afafcad9e9c55fc
-      internalID: -980691080
+      spriteID: 67867acdb5500e144a313a77dc49cc51
+      internalID: -1821595955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: extra6
+      name: Mission 1_103
+      rect:
+        serializedVersion: 2
+        x: 7557
+        y: 199
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c32f9c85c51aab409e27615d1067df5
+      internalID: 1926650813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_104
+      rect:
+        serializedVersion: 2
+        x: 7707
+        y: 172
+        width: 101
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10a29ca7219104a9ac5006217a92ba
+      internalID: -148322048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_105
       rect:
         serializedVersion: 2
         x: 7925
         y: 123
-        width: 51
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963393f35796f0747a779fa5110d03eb
+      internalID: 1991564861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_106
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 156
+        width: 4
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113b6f861776c74bac71b7ecf7655bf
+      internalID: 251127700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_107
+      rect:
+        serializedVersion: 2
+        x: 7412
+        y: 92
+        width: 97
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a463f8bcec8442b73bd04f1858454
+      internalID: -780424714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_108
+      rect:
+        serializedVersion: 2
+        x: 7512
+        y: 175
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33708caa794568343af588fdb2e2ae2b
+      internalID: 920757100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_109
+      rect:
+        serializedVersion: 2
+        x: 7818
+        y: 180
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7755784892350854da5c6d5df1932a7d
+      internalID: 1655319448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_110
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 184
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cf5689fbfb83642beccd354d3e338f
+      internalID: -509147546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_111
+      rect:
+        serializedVersion: 2
+        x: 7861
+        y: 174
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82aa54b45667d3408713ecb6d42d331
+      internalID: 378680456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_112
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 172
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e749fbc30bc84044db8c0682f03361f0
+      internalID: -243040238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_113
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 135
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38faf15a895ef243b2434e34dfa810b
+      internalID: -1172077137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_114
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 124
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5739343a7840bc74489d8d30383412ef
+      internalID: 660356225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_115
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 140
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1385ba74df03af46960325f0ab1b22c
+      internalID: 1395887874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_116
+      rect:
+        serializedVersion: 2
+        x: 4516
+        y: 120
+        width: 4
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd498035aaaa548a3f9789a98818d1
+      internalID: -1637667602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_117
+      rect:
+        serializedVersion: 2
+        x: 7638
+        y: 92
+        width: 292
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba5ac5c48302447817776bc2268a59
+      internalID: 250921609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3ac66dced26164c8857f11f3e747d2
+      internalID: 1939711459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_119
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 28
+        width: 219
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e7361478358f44db9f894f183ee9dd
+      internalID: -520549320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_120
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 134
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d75ec52597ce324eab813d843432daf
+      internalID: 655545210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_121
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 41
+        width: 271
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf03e2a48359d46967f2c2fc40ff96
+      internalID: 1063063099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_122
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 135
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a57fa585976d1439ba6fe7f8a69740
+      internalID: 457838568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_123
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 81
+        width: 56
         height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -565,20 +2720,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 914d817fb296d53469d33f7cd43dc1eb
-      internalID: -605915955
+      spriteID: af99d834f7943c94ea550fef0785f51b
+      internalID: 830638648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: extra3
+      name: Mission 1_124
       rect:
         serializedVersion: 2
-        x: 7413
-        y: 122
-        width: 96
-        height: 47
+        x: 1491
+        y: 125
+        width: 10
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -586,20 +2741,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48ade9900de3186489b56adc5b251915
-      internalID: 152546217
+      spriteID: 7674582b72cabd04d8d8e35730ff282a
+      internalID: 1759013503
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: extra5
+      name: Mission 1_125
       rect:
         serializedVersion: 2
-        x: 7659
-        y: 121
-        width: 261
-        height: 50
+        x: 1216
+        y: 73
+        width: 36
+        height: 43
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -607,20 +2762,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf3c461c3b9a3394db1f47bce31b413a
-      internalID: -807756600
+      spriteID: b0dfda8a1062ee4449a6d0be70b8a8da
+      internalID: 53472609
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground_grass2
+      name: Mission 1_126
       rect:
         serializedVersion: 2
-        x: 1389
-        y: 55
-        width: 560
-        height: 77
+        x: 1624
+        y: 104
+        width: 43
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,146 +2783,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e95bedadb61196e4682753807874127d
-      internalID: 1552706628
+      spriteID: 9f9b56eb59b015345a488c0cb5f33972
+      internalID: 482062726
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sky2
-      rect:
-        serializedVersion: 2
-        x: 4409
-        y: 745
-        width: 513
-        height: 193
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 809d8d25f547ea045ba6c5592b7fe2ed
-      internalID: -1095040428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sky3
-      rect:
-        serializedVersion: 2
-        x: 4603
-        y: 809
-        width: 1023
-        height: 193
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20a7e12c3ac666142822667d0944c394
-      internalID: -583505877
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sky4
-      rect:
-        serializedVersion: 2
-        x: 5242
-        y: 938
-        width: 448
-        height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 83fe34ec55654364fb5aa1666cd1cf4b
-      internalID: -831600680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sky5
-      rect:
-        serializedVersion: 2
-        x: 5370
-        y: 1066
-        width: 670
-        height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6774bba0df584ea4d954d42d5650e0ad
-      internalID: 579372951
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground2
-      rect:
-        serializedVersion: 2
-        x: 846
-        y: 336
-        width: 319
-        height: 303
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3984ad8654fadd041aa639471e8d8e6e
-      internalID: 139718327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground3
-      rect:
-        serializedVersion: 2
-        x: 1165
-        y: 351
-        width: 801
-        height: 265
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f8f3d3bf480ccb149923934eab5108d3
-      internalID: -687957713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: ground4
+      name: Mission 1_127
       rect:
         serializedVersion: 2
         x: 1966
-        y: 255
-        width: 1935
-        height: 410
+        y: 96
+        width: 14
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -775,20 +2804,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 867b0bf820a73eb4c8456b794bf7bfaa
-      internalID: 267939663
+      spriteID: 015d986adbae8174d9e1128134c82714
+      internalID: -441821483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground5
+      name: Mission 1_128
       rect:
         serializedVersion: 2
-        x: 3901
-        y: 335
-        width: 609
-        height: 183
+        x: 4516
+        y: 88
+        width: 4
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -796,20 +2825,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68f60ceac15c27c45b1057354ab1690d
-      internalID: 1693767039
+      spriteID: e6711b691bef335469ff647a4ba570be
+      internalID: 31199479
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground7
+      name: Mission 1_129
       rect:
         serializedVersion: 2
-        x: 5206
-        y: 117
-        width: 239
-        height: 347
+        x: 7976
+        y: 92
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -817,20 +2846,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58386a355ab1f8440bbb6e6b707805cf
-      internalID: 1124427426
+      spriteID: 5cbc8c35c7e67c44f90264e8b16ca06c
+      internalID: -1699538576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground8
+      name: Mission 1_130
       rect:
         serializedVersion: 2
-        x: 5445
-        y: 149
-        width: 245
-        height: 604
+        x: 1388
+        y: 61
+        width: 13
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -838,20 +2867,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ec3038aa772cca4dbf3ad442bcc7697
-      internalID: 1752472832
+      spriteID: c8cc1d621c4c50f4da2a1d7a291de271
+      internalID: -1156376044
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground9_above_b
+      name: Mission 1_131
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 820
-        width: 491
-        height: 246
+        x: 1673
+        y: 61
+        width: 14
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -859,20 +2888,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c61d30ccddbdb54e8abeba893fc5fe9
-      internalID: 1553498213
+      spriteID: 67bcd373d32f39b42b379dca728fe59a
+      internalID: 1880956713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground9_above_a
+      name: Mission 1_132
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 437
-        width: 172
-        height: 383
+        x: 1956
+        y: 80
+        width: 8
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,20 +2909,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50aa4c06ba6895343b2ac5f811f7a82e
-      internalID: 932791678
+      spriteID: 8a2643dd5a9d4f147981e21f016dd7a1
+      internalID: -230745761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground9
+      name: Mission 1_133
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 149
-        width: 260
-        height: 288
+        x: 5380
+        y: 84
+        width: 8
+        height: 4
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -901,29 +2930,302 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 043dc5422ff640f4d9c01bd4d4e73134
-      internalID: 1514858866
+      spriteID: 56d2821179ef75f4fa7f599be5ed5043
+      internalID: 2058915800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ground11
+      name: Mission 1_134
       rect:
         serializedVersion: 2
-        x: 7406
-        y: 393
-        width: 570
-        height: 256
+        x: 5440
+        y: 84
+        width: 8
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc1c65d68ae58d241a30f01260ceb850
-      internalID: 1685795719
+      spriteID: ba1d746131ec2204a85c653bd46ed7c6
+      internalID: 1459675754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_135
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 28
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14f132bfb4aa0741ac73a743ff74689
+      internalID: 1732183660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_136
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 28
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705d9ee56cfe974fb164f3c621567a4
+      internalID: 1657240291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_137
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 28
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b403b55ac6513049b0dc8ba00aa4554
+      internalID: 1104359505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_138
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 61
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a904b959e288e24983bfb6eb82d8535
+      internalID: -1186796263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_139
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e9f7af2e4b3eb44a5985528be8c7c4
+      internalID: -147489648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_140
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 28
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412301255e3305a449a00219768c6f88
+      internalID: -954398171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_141
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 28
+        width: 212
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28feafb45216a174588318132ddd902f
+      internalID: -497542886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_142
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 52
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d30b0523058aa4c8e3916cf5d5193b
+      internalID: -185492008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_143
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 52
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd179aeda38168b4f82ac8620795d742
+      internalID: -1952500924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_144
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 52
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def613eec26714540934b99f077e5fe3
+      internalID: 1852236000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_145
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 52
+        width: 52
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2e09ddcfc879443ba882e81c59ae7b
+      internalID: 2064508393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_146
+      rect:
+        serializedVersion: 2
+        x: 4948
+        y: 52
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31850d7b035cb9f4e8f87435b48a7d1c
+      internalID: 865164654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mission 1_147
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 52
+        width: 20
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435ad2c54a6ea74eb1c85d218d3a7ed
+      internalID: -344966726
       vertices: []
       indices: 
       edges: []
@@ -939,11 +3241,20 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Mission 1_0: 628364073
+      Mission 1_1: -2059816432
+      Mission 1_10: -455762819
+      Mission 1_100: -890121371
+      Mission 1_101: 1374187483
       Mission 1_102: -1821595955
+      Mission 1_103: 1926650813
       Mission 1_104: -148322048
       Mission 1_105: 1991564861
+      Mission 1_106: 251127700
       Mission 1_107: -780424714
+      Mission 1_108: 920757100
       Mission 1_109: 1655319448
+      Mission 1_11: 572660751
       Mission 1_110: -509147546
       Mission 1_111: 378680456
       Mission 1_112: -243040238
@@ -952,7 +3263,9 @@ TextureImporter:
       Mission 1_115: 1395887874
       Mission 1_116: -1637667602
       Mission 1_117: 250921609
+      Mission 1_118: 1939711459
       Mission 1_119: -520549320
+      Mission 1_12: 712571307
       Mission 1_120: 655545210
       Mission 1_121: 1063063099
       Mission 1_122: 457838568
@@ -963,6 +3276,7 @@ TextureImporter:
       Mission 1_127: -441821483
       Mission 1_128: 31199479
       Mission 1_129: -1699538576
+      Mission 1_13: -1559876000
       Mission 1_130: -1156376044
       Mission 1_131: 1880956713
       Mission 1_132: -230745761
@@ -973,6 +3287,7 @@ TextureImporter:
       Mission 1_137: 1104359505
       Mission 1_138: -1186796263
       Mission 1_139: -147489648
+      Mission 1_14: -1649102074
       Mission 1_140: -954398171
       Mission 1_141: -497542886
       Mission 1_142: -185492008
@@ -981,12 +3296,12 @@ TextureImporter:
       Mission 1_145: 2064508393
       Mission 1_146: 865164654
       Mission 1_147: -344966726
-      Mission 1_148: 1424171859
       Mission 1_15: -876511973
       Mission 1_16: -672533072
       Mission 1_17: -298805457
       Mission 1_18: -300622573
       Mission 1_19: 243351630
+      Mission 1_2: -927493213
       Mission 1_20: 2019042726
       Mission 1_21: -955266400
       Mission 1_22: -716087830
@@ -997,6 +3312,7 @@ TextureImporter:
       Mission 1_27: 1256905831
       Mission 1_28: -1428132476
       Mission 1_29: 1490389323
+      Mission 1_3: 1512998289
       Mission 1_30: -1028369042
       Mission 1_31: 1038036609
       Mission 1_32: -353307045
@@ -1007,6 +3323,8 @@ TextureImporter:
       Mission 1_37: 1349883002
       Mission 1_38: -1550344029
       Mission 1_39: 1372641185
+      Mission 1_4: -1156887808
+      Mission 1_40: 569991044
       Mission 1_41: -1466422626
       Mission 1_42: 1811418705
       Mission 1_43: -2139945281
@@ -1015,80 +3333,62 @@ TextureImporter:
       Mission 1_46: -1369198718
       Mission 1_47: -1326129205
       Mission 1_48: -681015657
+      Mission 1_49: -1560485174
+      Mission 1_5: 312151353
       Mission 1_50: 1470206244
       Mission 1_51: -778470945
       Mission 1_52: 97314964
+      Mission 1_53: 1053273106
+      Mission 1_54: 982343687
       Mission 1_55: -883809122
       Mission 1_56: 1475033398
       Mission 1_57: -1658830341
+      Mission 1_58: 1477493538
       Mission 1_59: -493640600
+      Mission 1_6: -951929481
       Mission 1_60: -2019406482
       Mission 1_61: -1685362150
       Mission 1_62: -1832986490
+      Mission 1_63: -666719092
       Mission 1_64: 224725087
       Mission 1_65: 2063974193
       Mission 1_66: 752548445
       Mission 1_67: 39383705
       Mission 1_68: -449994763
       Mission 1_69: 1664062437
+      Mission 1_7: -993831697
       Mission 1_70: 592241390
       Mission 1_71: 1866486763
       Mission 1_72: 2061839926
       Mission 1_73: 13128141
       Mission 1_74: 900171989
+      Mission 1_75: -320805814
       Mission 1_76: -1765961859
       Mission 1_77: 892736307
+      Mission 1_78: -1007825592
       Mission 1_79: 485162538
+      Mission 1_8: 723323508
       Mission 1_80: -617653136
       Mission 1_81: 1510435294
+      Mission 1_82: 1616104994
       Mission 1_83: 490251896
+      Mission 1_84: 1309638573
+      Mission 1_85: 1522967181
+      Mission 1_86: -1384108156
+      Mission 1_87: 1466406540
       Mission 1_88: -358266064
       Mission 1_89: 817389688
+      Mission 1_9: 2136886469
       Mission 1_90: -1415583534
       Mission 1_91: 793507028
       Mission 1_92: 1304271512
       Mission 1_93: 1868297328
       Mission 1_94: 390499628
+      Mission 1_95: -46938144
       Mission 1_96: 1704864009
       Mission 1_97: 540795545
-      extra1: -2027953529
-      extra2: 838501804
-      extra3: 152546217
-      extra4: -980691080
-      extra5: -807756600
-      extra6: -605915955
-      graound1: 1987428396
-      ground10: -1984568622
-      ground11: 1685795719
-      ground12: 840381589
-      ground13: -457877961
-      ground2: 139718327
-      ground3: -687957713
-      ground4: 267939663
-      ground5: 1693767039
-      ground6: -1561448982
-      ground7: 1124427426
-      ground8: 1752472832
-      ground9: 1514858866
-      ground9_above_a: 932791678
-      ground9_above_b: 1553498213
-      ground9_above_bb: -211396146
-      ground_gate1: 1300056008
-      ground_gate2: -845706924
-      ground_gate3: 807757494
-      ground_gate4: -376627441
-      ground_grass: 839321874
-      ground_grass2: 1552706628
-      ground_wall1: -1296351033
-      ground_wall2: 1081808051
-      ground_wall3: 1560898146
-      ground_wall4: -1046054686
-      ground_wall5: -490483806
-      sky1: -953290846
-      sky2: -1095040428
-      sky3: -583505877
-      sky4: -831600680
-      sky5: 579372951
+      Mission 1_98: -1665611053
+      Mission 1_99: -959915709
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
