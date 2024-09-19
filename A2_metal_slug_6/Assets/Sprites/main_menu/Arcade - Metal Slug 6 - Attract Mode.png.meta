@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: ed75d403dd2589743b691961e752f70a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 154
+        width: 320
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ad84bf7b6ed446b80f5994961bfd3
+      internalID: 634155486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 138
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cbe0813d11a1a48a044cd68c2a8f0e
+      internalID: 2009183962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 23
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f970f153d59cf54d8858cb1f04efe65
+      internalID: -1917208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 87
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea947cffd7e24f4b95e4faade4764d5
+      internalID: -30719826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 127
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f397d2bb651937488a49f648aa9f871
+      internalID: -1039151799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 111
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684cd779d48f1743a86258825c9d3fb
+      internalID: 152572485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 82
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8842176e689ed4990620589974ddee
+      internalID: -1426008076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 37
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcacb58aee58174b82fbf281b0fd090
+      internalID: 25438691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 95
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cdc69dcc03a3746b95ba2f352d7581
+      internalID: 1041412704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_9
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 93
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f79a74f5140349b470ae52e596fb4
+      internalID: 239339559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_10
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 93
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed17f5e2d42124f9cad346559d1912
+      internalID: 670281376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 93
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78651f5916376ec47bf71505e4fba233
+      internalID: -171957681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 93
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57bc5a51c8fcf1419b26fa970c43299
+      internalID: 1210681535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 93
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b27d8fec6528418964ae5119da850
+      internalID: -908087098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 52
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1b625b226d354429287d5ca34e7bec
+      internalID: -1348402736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bbdc12c3392044daa35487584c96d5
+      internalID: -1123616029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 81
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c8810488080434d8eeec04678d3f1a
+      internalID: 1761562869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_17
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 81
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea42299113e1514695aa39b3ce2d20e
+      internalID: -647589039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_18
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 81
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199907b4795cfd4db0eae14a3cc519a
+      internalID: -1652987251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 81
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4fdb4cd1045f24599788ea47dfe8b7
+      internalID: -1783925540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 81
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65bdb6f92e083b479e80c34bbc975fa
+      internalID: -904916171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 81
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e4cdfe5bbfbb545a78ed7198940fd2
+      internalID: 28724657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb013ace7fa41a6468935f8985a2e33c
+      internalID: 1044427655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_23
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 70
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e243f93c4382d409bfc4b90cfe5872
+      internalID: -1698476143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 70
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23af8e3d7b743c46ae78e097ab6eccc
+      internalID: -677811128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 70
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed0891440470b41b68f4ab25bbf731
+      internalID: 60330936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_26
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 70
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e01b957546dff4fb16795c1ad14f26
+      internalID: 1592225348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 70
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05414280480f54e4fa51a7ebc858b656
+      internalID: 990856995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 47
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6febbfa66bff5344d9ed520a9aa78b8b
+      internalID: 1438506520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 17
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a5b198d886dd444b512372b8cb390d
+      internalID: -1463569456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 47
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730693c965e4f794c9352f82c42a1ceb
+      internalID: 1451710189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 47
+        width: 112
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48650d522bc8fbb48b230aa8189533f1
+      internalID: -1516689409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 47
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114237f493887c74f83ae4926b3e3b0c
+      internalID: 514699753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Metal Slug 6 - Attract Mode_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 240
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11d8a99c03c3844494975240b27a996
+      internalID: 827684910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Metal Slug 6 - Attract Mode_0: 634155486
+      Arcade - Metal Slug 6 - Attract Mode_1: 2009183962
+      Arcade - Metal Slug 6 - Attract Mode_10: 670281376
+      Arcade - Metal Slug 6 - Attract Mode_100: 1529639274
+      Arcade - Metal Slug 6 - Attract Mode_101: -2045403586
+      Arcade - Metal Slug 6 - Attract Mode_102: -598106135
+      Arcade - Metal Slug 6 - Attract Mode_103: -171417944
+      Arcade - Metal Slug 6 - Attract Mode_104: -1209869900
+      Arcade - Metal Slug 6 - Attract Mode_105: 1690025771
+      Arcade - Metal Slug 6 - Attract Mode_11: -171957681
+      Arcade - Metal Slug 6 - Attract Mode_12: 1210681535
+      Arcade - Metal Slug 6 - Attract Mode_13: -908087098
+      Arcade - Metal Slug 6 - Attract Mode_14: -1348402736
+      Arcade - Metal Slug 6 - Attract Mode_15: -1123616029
+      Arcade - Metal Slug 6 - Attract Mode_16: 1761562869
+      Arcade - Metal Slug 6 - Attract Mode_17: -647589039
+      Arcade - Metal Slug 6 - Attract Mode_18: -1652987251
+      Arcade - Metal Slug 6 - Attract Mode_19: -1783925540
+      Arcade - Metal Slug 6 - Attract Mode_2: -1917208342
+      Arcade - Metal Slug 6 - Attract Mode_20: -904916171
+      Arcade - Metal Slug 6 - Attract Mode_21: 28724657
+      Arcade - Metal Slug 6 - Attract Mode_22: 1044427655
+      Arcade - Metal Slug 6 - Attract Mode_23: -1698476143
+      Arcade - Metal Slug 6 - Attract Mode_24: -677811128
+      Arcade - Metal Slug 6 - Attract Mode_25: 60330936
+      Arcade - Metal Slug 6 - Attract Mode_26: 1592225348
+      Arcade - Metal Slug 6 - Attract Mode_27: 990856995
+      Arcade - Metal Slug 6 - Attract Mode_28: 1438506520
+      Arcade - Metal Slug 6 - Attract Mode_29: -1463569456
+      Arcade - Metal Slug 6 - Attract Mode_3: -30719826
+      Arcade - Metal Slug 6 - Attract Mode_30: 1451710189
+      Arcade - Metal Slug 6 - Attract Mode_31: -1516689409
+      Arcade - Metal Slug 6 - Attract Mode_32: 514699753
+      Arcade - Metal Slug 6 - Attract Mode_33: 827684910
+      Arcade - Metal Slug 6 - Attract Mode_34: 1102719297
+      Arcade - Metal Slug 6 - Attract Mode_35: -600945221
+      Arcade - Metal Slug 6 - Attract Mode_36: -1258395549
+      Arcade - Metal Slug 6 - Attract Mode_37: 2010312635
+      Arcade - Metal Slug 6 - Attract Mode_38: 1010148730
+      Arcade - Metal Slug 6 - Attract Mode_39: -117836351
+      Arcade - Metal Slug 6 - Attract Mode_4: -1039151799
+      Arcade - Metal Slug 6 - Attract Mode_40: -954866524
+      Arcade - Metal Slug 6 - Attract Mode_41: -964095388
+      Arcade - Metal Slug 6 - Attract Mode_42: -1648443229
+      Arcade - Metal Slug 6 - Attract Mode_43: 298204730
+      Arcade - Metal Slug 6 - Attract Mode_44: -1749487414
+      Arcade - Metal Slug 6 - Attract Mode_45: 1508916435
+      Arcade - Metal Slug 6 - Attract Mode_46: -1190868316
+      Arcade - Metal Slug 6 - Attract Mode_47: 145817572
+      Arcade - Metal Slug 6 - Attract Mode_48: 97301120
+      Arcade - Metal Slug 6 - Attract Mode_49: 1820930336
+      Arcade - Metal Slug 6 - Attract Mode_5: 152572485
+      Arcade - Metal Slug 6 - Attract Mode_50: 669865968
+      Arcade - Metal Slug 6 - Attract Mode_51: -1100957220
+      Arcade - Metal Slug 6 - Attract Mode_52: -1893142451
+      Arcade - Metal Slug 6 - Attract Mode_53: 50615270
+      Arcade - Metal Slug 6 - Attract Mode_54: -927333627
+      Arcade - Metal Slug 6 - Attract Mode_55: 1289133075
+      Arcade - Metal Slug 6 - Attract Mode_56: 1449371569
+      Arcade - Metal Slug 6 - Attract Mode_57: -1698847381
+      Arcade - Metal Slug 6 - Attract Mode_58: 1425560099
+      Arcade - Metal Slug 6 - Attract Mode_59: -1152663602
+      Arcade - Metal Slug 6 - Attract Mode_6: -1426008076
+      Arcade - Metal Slug 6 - Attract Mode_60: -286914416
+      Arcade - Metal Slug 6 - Attract Mode_61: 165460199
+      Arcade - Metal Slug 6 - Attract Mode_62: 221323760
+      Arcade - Metal Slug 6 - Attract Mode_63: 716428097
+      Arcade - Metal Slug 6 - Attract Mode_64: 263240586
+      Arcade - Metal Slug 6 - Attract Mode_65: -1397770602
+      Arcade - Metal Slug 6 - Attract Mode_66: 723687845
+      Arcade - Metal Slug 6 - Attract Mode_67: -2093890948
+      Arcade - Metal Slug 6 - Attract Mode_68: -1464395208
+      Arcade - Metal Slug 6 - Attract Mode_69: -1873933673
+      Arcade - Metal Slug 6 - Attract Mode_7: 25438691
+      Arcade - Metal Slug 6 - Attract Mode_70: 1131128694
+      Arcade - Metal Slug 6 - Attract Mode_71: 1294240966
+      Arcade - Metal Slug 6 - Attract Mode_72: -1869882043
+      Arcade - Metal Slug 6 - Attract Mode_73: 1181747589
+      Arcade - Metal Slug 6 - Attract Mode_74: 1312281823
+      Arcade - Metal Slug 6 - Attract Mode_75: -1159899262
+      Arcade - Metal Slug 6 - Attract Mode_76: 902195365
+      Arcade - Metal Slug 6 - Attract Mode_77: 1961211064
+      Arcade - Metal Slug 6 - Attract Mode_78: -637458423
+      Arcade - Metal Slug 6 - Attract Mode_79: -1217963075
+      Arcade - Metal Slug 6 - Attract Mode_8: 1041412704
+      Arcade - Metal Slug 6 - Attract Mode_80: 2087506649
+      Arcade - Metal Slug 6 - Attract Mode_81: -518428581
+      Arcade - Metal Slug 6 - Attract Mode_82: -1220493448
+      Arcade - Metal Slug 6 - Attract Mode_83: 262750043
+      Arcade - Metal Slug 6 - Attract Mode_84: -474258101
+      Arcade - Metal Slug 6 - Attract Mode_85: 102615981
+      Arcade - Metal Slug 6 - Attract Mode_86: 1445440835
+      Arcade - Metal Slug 6 - Attract Mode_87: 1478021936
+      Arcade - Metal Slug 6 - Attract Mode_88: 190749481
+      Arcade - Metal Slug 6 - Attract Mode_89: 176105032
+      Arcade - Metal Slug 6 - Attract Mode_9: 239339559
+      Arcade - Metal Slug 6 - Attract Mode_90: 421171078
+      Arcade - Metal Slug 6 - Attract Mode_91: 678776047
+      Arcade - Metal Slug 6 - Attract Mode_92: -1431343174
+      Arcade - Metal Slug 6 - Attract Mode_93: 1296243021
+      Arcade - Metal Slug 6 - Attract Mode_94: 390825310
+      Arcade - Metal Slug 6 - Attract Mode_95: 444570120
+      Arcade - Metal Slug 6 - Attract Mode_96: -709091762
+      Arcade - Metal Slug 6 - Attract Mode_97: -1210868528
+      Arcade - Metal Slug 6 - Attract Mode_98: -1176338987
+      Arcade - Metal Slug 6 - Attract Mode_99: 459739231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

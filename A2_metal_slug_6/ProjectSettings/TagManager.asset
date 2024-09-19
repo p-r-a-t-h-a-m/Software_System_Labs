@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Bullet
+  - Lvl_change
+  - SoundManager
+  - Scenes
+  - MainEventSystem
+  - Player_bullet
+  - FireBallHolder
+  - Level_audio
+  - GameEntry
   layers:
   - Default
   - TransparentFX
@@ -42,6 +51,7 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
   - name: Background
     uniqueID: 541962069
     locked: 0
@@ -53,4 +63,8 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3953830257
+=======
+  - name: name
+    uniqueID: 759686947
+>>>>>>> main
     locked: 0
