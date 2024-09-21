@@ -5,25 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
-  - Bullet
-  - Lvl_change
-  - SoundManager
-  - Scenes
-  - MainEventSystem
-  - Player_bullet
-  - FireBallHolder
-  - Level_audio
-  - GameEntry
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Wall
+  - Ground
   - Water
   - UI
-  - Ground
-  - 
-  - 
+  - Wall
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -51,20 +42,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-<<<<<<< HEAD
   - name: Background
-    uniqueID: 541962069
+    uniqueID: 2195126351
     locked: 0
   - name: Foreground
-    uniqueID: 1586874141
-    locked: 0
-  - name: Ground
-    uniqueID: 1708617189
+    uniqueID: 2767169397
     locked: 0
   - name: Player
-    uniqueID: 3953830257
-=======
-  - name: name
-    uniqueID: 759686947
->>>>>>> main
+    uniqueID: 728075247
+    locked: 0
+  - name: Ground
+    uniqueID: 1261632843
     locked: 0
