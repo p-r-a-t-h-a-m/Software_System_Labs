@@ -57,7 +57,7 @@ public class Player_Movement : MonoBehaviour
             }
             else
             {
-                body.gravityScale=7;
+                body.gravityScale=1;
             }
             if(Input.GetKey(KeyCode.Space))
             {
