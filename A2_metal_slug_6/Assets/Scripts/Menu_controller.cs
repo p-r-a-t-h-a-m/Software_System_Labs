@@ -18,6 +18,10 @@ public class Menu_controller : MonoBehaviour
     [SerializeField] private TMP_Text brightnessTextValue = null;
     [SerializeField] private float defaultBrightness = 1;
 
+    [Space(10)]
+    [SerializeField] private TMP_Dropdown qualityDropdown;
+    [SerializeField] private Toggle fullScreenToggle;
+
     private int _qualityLevel;
     private bool _isFullscreen;
     private float _brightnessLevel;
@@ -53,6 +57,9 @@ public class Menu_controller : MonoBehaviour
                 currentResolutionIndex = i;
             }
         }
+        resolutionDropdown.AddOptions(options);
+        resolutionDropdown.value = currentResolutionIndex;
+        resolutionDropdown.RefreshShownValue();
     }
 
     public void SetResolution(int resolutionIndex)
@@ -130,7 +137,28 @@ public class Menu_controller : MonoBehaviour
 
     public void ResetButton(string MenuType)
     {
-        if(MenuType == "Audio")
+
+        if (MenuType == "Graphics")
+        {
+            // Reset brightness value
+            brightnessSlider.value = defaultBrightness;
+            brightnessTextValue.text = defaultBrightness.ToString("0.0");
+
+            qualityDropdown.value = 1;
+            QualitySettings.SetQualityLevel(1);
+
+            fullScreenToggle.isOn = false;
+            Screen.fullScreen = false;
+
+            Resolution currentResolution = Screen.currentResolution;
+            Screen.SetResolution(currentResolution.width, currentResolution.height, Screen.fullScreen);
+
+            resolutionDropdown.value = resolutions.Length;
+            GraphicsApply();
+
+        }
+
+        if (MenuType == "Audio")
         {
             AudioListener.volume = defaultVolume;
             VolumeSlider.value = defaultVolume;

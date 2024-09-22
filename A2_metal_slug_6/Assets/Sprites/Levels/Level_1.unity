@@ -1133,7 +1133,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ac1b808ab43b7843ae21d982ea560db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackCooldown: 5
+<<<<<<< Updated upstream
+  attackCooldown: 0
+=======
+  attackCooldown: 1
+>>>>>>> Stashed changes
   firePoint: {fileID: 481400139}
   fireballs:
   - {fileID: 960409003}
