@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Lvl_change
+  - SoundManager
+  - Scenes
+  - MainEventSystem
+  - Player_bullet
+  - FireBallHolder
+  - Level_audio
+  - GameEntry
+  - Enemy
   layers:
   - Default
   - TransparentFX

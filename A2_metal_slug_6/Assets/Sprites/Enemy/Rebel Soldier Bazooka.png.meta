@@ -866,7 +866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_36
+      name: shoot1
       rect:
         serializedVersion: 2
         x: 3
@@ -887,7 +887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_37
+      name: shoot2
       rect:
         serializedVersion: 2
         x: 45
@@ -908,7 +908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_38
+      name: shoot3
       rect:
         serializedVersion: 2
         x: 89
@@ -929,7 +929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_39
+      name: shootup0
       rect:
         serializedVersion: 2
         x: 3
@@ -950,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_40
+      name: shootup1
       rect:
         serializedVersion: 2
         x: 49
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_41
+      name: shootup2
       rect:
         serializedVersion: 2
         x: 92
@@ -992,7 +992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_42
+      name: shootup3
       rect:
         serializedVersion: 2
         x: 134
@@ -1013,7 +1013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_43
+      name: shootup4
       rect:
         serializedVersion: 2
         x: 174
@@ -1034,7 +1034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_44
+      name: shootup5
       rect:
         serializedVersion: 2
         x: 209
@@ -1055,7 +1055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_45
+      name: shootup6
       rect:
         serializedVersion: 2
         x: 247
@@ -1076,7 +1076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_46
+      name: shootup7
       rect:
         serializedVersion: 2
         x: 281
@@ -1097,7 +1097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_47
+      name: shootup8
       rect:
         serializedVersion: 2
         x: 319
@@ -1118,7 +1118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_48
+      name: shootup9
       rect:
         serializedVersion: 2
         x: 357
@@ -1139,7 +1139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_49
+      name: shootup10
       rect:
         serializedVersion: 2
         x: 397
@@ -1160,7 +1160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_50
+      name: shoot4
       rect:
         serializedVersion: 2
         x: 3
@@ -1181,7 +1181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_51
+      name: shoot5
       rect:
         serializedVersion: 2
         x: 48
@@ -1202,7 +1202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_52
+      name: shoot6
       rect:
         serializedVersion: 2
         x: 93
@@ -1223,7 +1223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_53
+      name: shootdown1
       rect:
         serializedVersion: 2
         x: 3
@@ -1244,7 +1244,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_54
+      name: shootdown2
       rect:
         serializedVersion: 2
         x: 52
@@ -1265,7 +1265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_55
+      name: shootdown3
       rect:
         serializedVersion: 2
         x: 99
@@ -1286,7 +1286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_56
+      name: shootdown4
       rect:
         serializedVersion: 2
         x: 147
@@ -1307,7 +1307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_57
+      name: shootdown5
       rect:
         serializedVersion: 2
         x: 191
@@ -1328,7 +1328,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_58
+      name: shootdown6
       rect:
         serializedVersion: 2
         x: 235
@@ -1349,7 +1349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_59
+      name: shootdown7
       rect:
         serializedVersion: 2
         x: 279
@@ -1370,7 +1370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_60
+      name: shootdown8
       rect:
         serializedVersion: 2
         x: 318
@@ -1391,7 +1391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_61
+      name: shootdown9
       rect:
         serializedVersion: 2
         x: 361
@@ -1412,7 +1412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_62
+      name: sit7
       rect:
         serializedVersion: 2
         x: 3
@@ -1433,7 +1433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_63
+      name: sit6
       rect:
         serializedVersion: 2
         x: 43
@@ -1454,7 +1454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_64
+      name: sit5
       rect:
         serializedVersion: 2
         x: 86
@@ -1475,7 +1475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_65
+      name: sit4
       rect:
         serializedVersion: 2
         x: 128
@@ -1496,7 +1496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_66
+      name: sit3
       rect:
         serializedVersion: 2
         x: 172
@@ -1517,7 +1517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_67
+      name: sit2
       rect:
         serializedVersion: 2
         x: 216
@@ -1538,7 +1538,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_68
+      name: sit1
       rect:
         serializedVersion: 2
         x: 260
@@ -1580,7 +1580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_70
+      name: crouchshoot1
       rect:
         serializedVersion: 2
         x: 3
@@ -1601,7 +1601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_71
+      name: crouchshoot2
       rect:
         serializedVersion: 2
         x: 43
@@ -1622,7 +1622,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_72
+      name: crouchshoot3
       rect:
         serializedVersion: 2
         x: 84
@@ -1643,7 +1643,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_73
+      name: crouchshoot4
       rect:
         serializedVersion: 2
         x: 133
@@ -1664,7 +1664,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_74
+      name: crouchshoot5
       rect:
         serializedVersion: 2
         x: 190
@@ -1685,7 +1685,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_75
+      name: crouchshoot6
       rect:
         serializedVersion: 2
         x: 248
@@ -1706,7 +1706,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_76
+      name: crouchshoot7
       rect:
         serializedVersion: 2
         x: 307
@@ -1727,7 +1727,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_77
+      name: crouchshoot8
       rect:
         serializedVersion: 2
         x: 368
@@ -1748,7 +1748,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_78
+      name: crouchshoot9
       rect:
         serializedVersion: 2
         x: 3
@@ -1769,7 +1769,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_79
+      name: crouchshoot10
       rect:
         serializedVersion: 2
         x: 65
@@ -1790,7 +1790,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_80
+      name: crouchshoot11
       rect:
         serializedVersion: 2
         x: 128
@@ -1811,7 +1811,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_81
+      name: crouchshoot12
       rect:
         serializedVersion: 2
         x: 190
@@ -1832,7 +1832,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_82
+      name: crouchshoot13
       rect:
         serializedVersion: 2
         x: 249
@@ -1853,7 +1853,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_83
+      name: crouchshoot14
       rect:
         serializedVersion: 2
         x: 305
@@ -2189,7 +2189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_99
+      name: Land1
       rect:
         serializedVersion: 2
         x: 3
@@ -2210,7 +2210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_100
+      name: Land2
       rect:
         serializedVersion: 2
         x: 48
@@ -2231,7 +2231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_101
+      name: Land3
       rect:
         serializedVersion: 2
         x: 91
@@ -2252,7 +2252,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_102
+      name: Land4
       rect:
         serializedVersion: 2
         x: 140
@@ -2273,7 +2273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_103
+      name: Land5
       rect:
         serializedVersion: 2
         x: 187
@@ -2294,7 +2294,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_104
+      name: Land6
       rect:
         serializedVersion: 2
         x: 235
@@ -2315,7 +2315,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_105
+      name: Land7
       rect:
         serializedVersion: 2
         x: 279
@@ -2336,7 +2336,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_106
+      name: Land8
       rect:
         serializedVersion: 2
         x: 323
@@ -2357,7 +2357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_107
+      name: Land9
       rect:
         serializedVersion: 2
         x: 367
@@ -2378,7 +2378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_108
+      name: Land10
       rect:
         serializedVersion: 2
         x: 406
@@ -2399,7 +2399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rebel Soldier Bazooka_109
+      name: Land11
       rect:
         serializedVersion: 2
         x: 449
@@ -2436,17 +2436,18 @@ TextureImporter:
       Idle4: -59150525
       Idle5: 259423811
       Idle6: -163171010
+      Land1: 1235975807
+      Land10: 767096042
+      Land11: -1175174067
+      Land2: 353339251
+      Land3: -542485568
+      Land4: -1963244677
+      Land5: 1063421208
+      Land6: 845387431
+      Land7: -2116900343
+      Land8: -1472620650
+      Land9: 1476741032
       Rebel Soldier Bazooka_10: -565822038
-      Rebel Soldier Bazooka_100: 353339251
-      Rebel Soldier Bazooka_101: -542485568
-      Rebel Soldier Bazooka_102: -1963244677
-      Rebel Soldier Bazooka_103: 1063421208
-      Rebel Soldier Bazooka_104: 845387431
-      Rebel Soldier Bazooka_105: -2116900343
-      Rebel Soldier Bazooka_106: -1472620650
-      Rebel Soldier Bazooka_107: 1476741032
-      Rebel Soldier Bazooka_108: 767096042
-      Rebel Soldier Bazooka_109: -1175174067
       Rebel Soldier Bazooka_11: 1599768477
       Rebel Soldier Bazooka_12: 1204995051
       Rebel Soldier Bazooka_13: -809689956
@@ -2472,57 +2473,10 @@ TextureImporter:
       Rebel Soldier Bazooka_33: 1550657876
       Rebel Soldier Bazooka_34: -179105490
       Rebel Soldier Bazooka_35: -610679456
-      Rebel Soldier Bazooka_36: 1096256715
-      Rebel Soldier Bazooka_37: -1938672748
-      Rebel Soldier Bazooka_38: -1094564860
-      Rebel Soldier Bazooka_39: -538809761
-      Rebel Soldier Bazooka_40: -1403075121
-      Rebel Soldier Bazooka_41: -1606719691
-      Rebel Soldier Bazooka_42: 1372169675
-      Rebel Soldier Bazooka_43: -1459631698
-      Rebel Soldier Bazooka_44: 738419698
-      Rebel Soldier Bazooka_45: 1542193405
-      Rebel Soldier Bazooka_46: -34313235
-      Rebel Soldier Bazooka_47: 1394909809
-      Rebel Soldier Bazooka_48: 1931972272
-      Rebel Soldier Bazooka_49: -505800092
-      Rebel Soldier Bazooka_50: 1701708381
-      Rebel Soldier Bazooka_51: 283903680
-      Rebel Soldier Bazooka_52: -31249196
-      Rebel Soldier Bazooka_53: -1577410751
-      Rebel Soldier Bazooka_54: 134919961
-      Rebel Soldier Bazooka_55: -1062050341
-      Rebel Soldier Bazooka_56: 1658528950
-      Rebel Soldier Bazooka_57: -1062329795
-      Rebel Soldier Bazooka_58: 356335038
-      Rebel Soldier Bazooka_59: -195647321
       Rebel Soldier Bazooka_6: 1909049282
-      Rebel Soldier Bazooka_60: 1981598854
-      Rebel Soldier Bazooka_61: -2080266716
-      Rebel Soldier Bazooka_62: -1228881845
-      Rebel Soldier Bazooka_63: -1872562458
-      Rebel Soldier Bazooka_64: 1489894115
-      Rebel Soldier Bazooka_65: -1808346372
-      Rebel Soldier Bazooka_66: -850762661
-      Rebel Soldier Bazooka_67: -1261108159
-      Rebel Soldier Bazooka_68: 641824356
       Rebel Soldier Bazooka_69: 275711529
       Rebel Soldier Bazooka_7: 1067076226
-      Rebel Soldier Bazooka_70: 1727206385
-      Rebel Soldier Bazooka_71: -1786783235
-      Rebel Soldier Bazooka_72: -1960313412
-      Rebel Soldier Bazooka_73: -247729427
-      Rebel Soldier Bazooka_74: -1298173709
-      Rebel Soldier Bazooka_75: 746127803
-      Rebel Soldier Bazooka_76: -781560850
-      Rebel Soldier Bazooka_77: -752979712
-      Rebel Soldier Bazooka_78: 1022133000
-      Rebel Soldier Bazooka_79: -1883742090
       Rebel Soldier Bazooka_8: 1773042885
-      Rebel Soldier Bazooka_80: 1832120953
-      Rebel Soldier Bazooka_81: 964353684
-      Rebel Soldier Bazooka_82: -2092749879
-      Rebel Soldier Bazooka_83: -2116228253
       Rebel Soldier Bazooka_84: 702205901
       Rebel Soldier Bazooka_85: -930683256
       Rebel Soldier Bazooka_86: -326004632
@@ -2539,7 +2493,53 @@ TextureImporter:
       Rebel Soldier Bazooka_96: 1630393421
       Rebel Soldier Bazooka_97: 523960624
       Rebel Soldier Bazooka_98: 357919215
-      Rebel Soldier Bazooka_99: 1235975807
+      crouchshoot1: 1727206385
+      crouchshoot10: -1883742090
+      crouchshoot11: 1832120953
+      crouchshoot12: 964353684
+      crouchshoot13: -2092749879
+      crouchshoot14: -2116228253
+      crouchshoot2: -1786783235
+      crouchshoot3: -1960313412
+      crouchshoot4: -247729427
+      crouchshoot5: -1298173709
+      crouchshoot6: 746127803
+      crouchshoot7: -781560850
+      crouchshoot8: -752979712
+      crouchshoot9: 1022133000
+      shoot1: 1096256715
+      shoot2: -1938672748
+      shoot3: -1094564860
+      shoot4: 1701708381
+      shoot5: 283903680
+      shoot6: -31249196
+      shootdown1: -1577410751
+      shootdown2: 134919961
+      shootdown3: -1062050341
+      shootdown4: 1658528950
+      shootdown5: -1062329795
+      shootdown6: 356335038
+      shootdown7: -195647321
+      shootdown8: 1981598854
+      shootdown9: -2080266716
+      shootup0: -538809761
+      shootup1: -1403075121
+      shootup10: -505800092
+      shootup2: -1606719691
+      shootup3: 1372169675
+      shootup4: -1459631698
+      shootup5: 738419698
+      shootup6: 1542193405
+      shootup7: -34313235
+      shootup8: 1394909809
+      shootup9: 1931972272
+      sit1: 641824356
+      sit2: -1261108159
+      sit3: -850762661
+      sit4: -1808346372
+      sit5: 1489894115
+      sit6: -1872562458
+      sit7: -1228881845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
