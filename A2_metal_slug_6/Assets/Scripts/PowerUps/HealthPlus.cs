@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Health_PowerUp : MonoBehaviour
+public class HealthPlus : MonoBehaviour
 {
     [SerializeField] Player_Health playerHealth;
     [SerializeField] private int HealthValue;
@@ -11,7 +11,7 @@ public class Health_PowerUp : MonoBehaviour
     {
         if(collision.tag == "Player")
         {
-            playerHealth.AddExtraLife(HealthValue);
+            playerHealth.AddHealth(HealthValue);
             gameObject.SetActive(false);
         }
     }
