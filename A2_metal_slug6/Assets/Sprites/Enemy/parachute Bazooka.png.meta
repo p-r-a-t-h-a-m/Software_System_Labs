@@ -1,0 +1,1399 @@
+fileFormatVersion: 2
+guid: 2afb77290bf240741a5c44e3f19551c7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: parachute Bazooka_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 251
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a53c600804984982bdb4ad7cc474e
+      internalID: -368220838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 251
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337eaa1164d36a34a84b9261c9b6bca8
+      internalID: 1894679607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 251
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad967e42e4b0c714a940d360ac16e099
+      internalID: 1609803892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 251
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c8975ab35a204abba0ec068833cf3
+      internalID: 352607735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 251
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77174c84e98a2b4794d4198062e02e7
+      internalID: -381049130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 253
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3157096d1d0bd045a557f6419c89bae
+      internalID: -874274356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 253
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef440dfd4778f4f80c719bae00f32e
+      internalID: 929318393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 251
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2754c4733bff004695ee869931a2dda
+      internalID: -1287007896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 259
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6fec8c754f574cb51c8c389615ab6
+      internalID: 602794621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 262
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba74b3e79546af74f89996eacd2d8e79
+      internalID: 1787429089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9295f60a498cdc4468caab8dcabd8c4b
+      internalID: 1383159203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0a949c65ddd7245928daa158066b6c
+      internalID: -506047711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 253
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d592898060f13540ae88797415f0a8c
+      internalID: -1442707856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 253
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315a3ae1a0dc2894db58beb7b73d38ca
+      internalID: 1645938543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 252
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f200b3ff76a44c8ef0ee6428eb70b
+      internalID: 2014933613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 232
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a4eda216cc9de40987388b18815e70
+      internalID: 164924983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 231
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad370a2c4f377a449654306cd74b76a
+      internalID: -62531925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 232
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea85a257019dc49a4d72aed0af3aa4
+      internalID: 1690054400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ea53a9bc5604c459c4f240d0af2c8a
+      internalID: 1946871501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 190
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c7de15855c734bb0b1cadeb251839
+      internalID: -1980772050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278f2eeb89e89941a00824a1c5a6ee5
+      internalID: 1702832911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 199
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45e3ffd99f595641b4f9948bc9286fe
+      internalID: -1118013208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 196
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924a38108f0b267449ab39db840c0b67
+      internalID: 352154929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 191
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576e66dfcb7368e43aa7892110e2ec2f
+      internalID: -1318084669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac442d23d949fd64690298f8e2e117d7
+      internalID: 634613551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 190
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3f3912532e79418bcdb71c80167b6
+      internalID: -960665613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 191
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409b87dfedca7a449103956542a530b
+      internalID: 2061615438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_31
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b26aedf9b8db740808b108a21a694d
+      internalID: 552984747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 195
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100132964fe12874a88d1062a7323fb7
+      internalID: 1831753113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 199
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315da59a4ca089418e569d5ea5ed8cf
+      internalID: 1067807632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549442faa268f2145b657838a7aed0bc
+      internalID: -1828864984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_35
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 143
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519ca3d9877eb55449e88598486b25f3
+      internalID: 5354185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e0adaf69487b5448d35e43f2430ff3
+      internalID: -2061756788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 136
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559a2661f04e3ff42938a5cfd4b9b2ed
+      internalID: 1748785289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 144
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf10e6dacfee434883fedfb802ac9c3
+      internalID: 917509784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 143
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c102a9669ab98fc4fbe202f5139b846d
+      internalID: 500185623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_45
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 141
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f21dd9abfe3a459304083ab6fd69a
+      internalID: 1395772648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_46
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 140
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c94f0cda7ae24099b40268b1409b9
+      internalID: 3784716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad940ad88d1a8f141bb7c11d7b9a3495
+      internalID: 1114213728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 51
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60b4cd9716faf4e8dad148e20f0cd9
+      internalID: 710772125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_53
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 49
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7cd3fda858beb4d86282a893849a18
+      internalID: -2046413863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_54
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 44
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4afd7d6e44f3094a8f5d63a20a5eca7
+      internalID: 1099451839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_55
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 40
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafc7bc247abd1d499e8512e7e767c96
+      internalID: -658500576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 38
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178618bf48e95cc41a08987ab6c11e37
+      internalID: 661707807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_58
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 35
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd311589dfd00434f887b3b75d893c95
+      internalID: -1271533660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_60
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 27
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24410992957b2de4e8b30632b555981f
+      internalID: 1721391310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_61
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 26
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5b0a456b5e0b4aa6fb4c3e7c91f06
+      internalID: -47247304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 5
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6150e198a273f0a44ada26f7a858f4f2
+      internalID: -2040242038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 5
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e156aa9191a541b83f35c1c65b505
+      internalID: -1870730317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_68
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd92ce220fd4cfc45aa8e4787fd9f3f5
+      internalID: -1669845593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 10
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc38bc959abcc488b535ce385a7a9b
+      internalID: 2144256986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 11
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3db27928402a4b926c1b242e4f327
+      internalID: -1008436834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_71
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103bec406a13b64e8edbb955f4bafc2
+      internalID: 744000341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6bac1cb5f1c4742be71cde4c0648b3
+      internalID: -905909234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 15
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e320950c79d7d48bf605f39a11efb9
+      internalID: 960576071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_0
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 232
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945a6e6ca2f07894fb4f2c2d84109d1f
+      internalID: 922125044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: parachute Bazooka_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ebad2d078321440af395b05e22797c
+      internalID: -1280853894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      parachute Bazooka_0: 922125044
+      parachute Bazooka_1: -368220838
+      parachute Bazooka_10: 1787429089
+      parachute Bazooka_11: 1383159203
+      parachute Bazooka_12: -506047711
+      parachute Bazooka_13: -1442707856
+      parachute Bazooka_14: 1645938543
+      parachute Bazooka_15: 2014933613
+      parachute Bazooka_16: -1280853894
+      parachute Bazooka_17: 128636912
+      parachute Bazooka_18: 164924983
+      parachute Bazooka_19: -62531925
+      parachute Bazooka_2: 1894679607
+      parachute Bazooka_20: 1690054400
+      parachute Bazooka_21: 1946871501
+      parachute Bazooka_22: -1980772050
+      parachute Bazooka_23: -1322164415
+      parachute Bazooka_24: 1702832911
+      parachute Bazooka_25: -1118013208
+      parachute Bazooka_26: 352154929
+      parachute Bazooka_27: -1318084669
+      parachute Bazooka_28: 634613551
+      parachute Bazooka_29: -960665613
+      parachute Bazooka_3: 1609803892
+      parachute Bazooka_30: 2061615438
+      parachute Bazooka_31: 552984747
+      parachute Bazooka_32: 1831753113
+      parachute Bazooka_33: 1067807632
+      parachute Bazooka_34: -1828864984
+      parachute Bazooka_35: 5354185
+      parachute Bazooka_36: 717714538
+      parachute Bazooka_37: -2061756788
+      parachute Bazooka_38: 1748785289
+      parachute Bazooka_39: 1447600544
+      parachute Bazooka_4: 352607735
+      parachute Bazooka_40: 917509784
+      parachute Bazooka_41: 197886850
+      parachute Bazooka_42: -1076336277
+      parachute Bazooka_43: -1396897483
+      parachute Bazooka_44: 500185623
+      parachute Bazooka_45: 1395772648
+      parachute Bazooka_46: 3784716
+      parachute Bazooka_47: -733034127
+      parachute Bazooka_48: 1114213728
+      parachute Bazooka_49: -421159434
+      parachute Bazooka_5: -381049130
+      parachute Bazooka_50: -1858246190
+      parachute Bazooka_51: 710772125
+      parachute Bazooka_52: -1916876060
+      parachute Bazooka_53: -2046413863
+      parachute Bazooka_54: 1099451839
+      parachute Bazooka_55: -658500576
+      parachute Bazooka_56: -1336290513
+      parachute Bazooka_57: 661707807
+      parachute Bazooka_58: -1271533660
+      parachute Bazooka_59: -2117763378
+      parachute Bazooka_6: -874274356
+      parachute Bazooka_60: 1721391310
+      parachute Bazooka_61: -47247304
+      parachute Bazooka_62: -576240740
+      parachute Bazooka_63: 1411720150
+      parachute Bazooka_64: -2040242038
+      parachute Bazooka_65: -1491502916
+      parachute Bazooka_66: -974149494
+      parachute Bazooka_67: -1870730317
+      parachute Bazooka_68: -1669845593
+      parachute Bazooka_69: 2144256986
+      parachute Bazooka_7: 929318393
+      parachute Bazooka_70: -1008436834
+      parachute Bazooka_71: 744000341
+      parachute Bazooka_72: -905909234
+      parachute Bazooka_73: 960576071
+      parachute Bazooka_74: -1352716703
+      parachute Bazooka_8: -1287007896
+      parachute Bazooka_9: 602794621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

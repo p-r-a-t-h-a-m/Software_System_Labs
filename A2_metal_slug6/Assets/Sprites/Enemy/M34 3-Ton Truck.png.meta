@@ -1,0 +1,777 @@
+fileFormatVersion: 2
+guid: 752a0ca19e0bf4448a5bc208ebf9f89e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Truck_drive0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 503
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353a23356fdc6b4a94945ff5f0f8fe8
+      internalID: 1752914294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_drive1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 503
+        width: 121
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03bb5b5aa08db47ba002d373513e13
+      internalID: 844985369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_drive2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 503
+        width: 121
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a438add9807e4a9998267d2cbb5a6
+      internalID: 962489385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_drive3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 503
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0573f05507a8e41af771d83b3931f7
+      internalID: -664713662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 409
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528fb8f20e39c24d953323c96133c60
+      internalID: -137957101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 409
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d77108107d224584b53a069de0a51
+      internalID: -648479129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 409
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b248db8fface0a42a6f2bbaf2d60f22
+      internalID: -324003999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 409
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de9a0d58bcb3642bfd6f02f6caf7bb
+      internalID: 1134711589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 409
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e3176f6a3fa054fb01110671e486ae
+      internalID: -823562846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 409
+        width: 123
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5872f671729e442bcd880556d5d8f2
+      internalID: -1919760283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 122
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e769b4b503c940ae87ebbbbf97627
+      internalID: -1296406782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 328
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8754988de08fd1f48b23ab0335162188
+      internalID: -636886723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 328
+        width: 133
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07af52b331c3f841b3c6876c390d9e8
+      internalID: -681406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 139
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ab191c0ec125b4dbaef0253918b169
+      internalID: -2130938439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 328
+        width: 143
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68c940636e8dcc479b8a5fd6c8e5c71
+      internalID: 1620751080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_deploy11
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 328
+        width: 141
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6600a239fb5974f8d59b8f4ccb7df9
+      internalID: 808608759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M34 3-Ton Truck_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 247
+        width: 143
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a7f6c2a0fcc74ebbe180e246d26a5
+      internalID: 1395110593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M34 3-Ton Truck_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 270
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f914f4398e7f479784de522a2e762
+      internalID: -1309424721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7bb7d7b24acb47bf98dc24d2a58f9
+      internalID: 1110254005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb0ee1cce4c814c9c4061e0e9634c0
+      internalID: -837335235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb13f520f069eb45bba4ed691bf9911
+      internalID: -654753882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 158
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e6d81899c00e4abd5d7869e284727
+      internalID: -891721196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy4
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 158
+        width: 121
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ea90c0b2bfbb4284a6588c6c69ea4
+      internalID: -969053844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_destroy5
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 158
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f49319cdfdc5114bba1c5d27328090f
+      internalID: 1647379638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_Hurt0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 18
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50146ce464757d4198d6feb06a876a2
+      internalID: 1739217974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Truck_Hurt1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 18
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e46c9e1015c3364c8eb8ae7947bf745
+      internalID: 2105651726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      M34 3-Ton Truck_100: -1396962981
+      M34 3-Ton Truck_16: 1395110593
+      M34 3-Ton Truck_17: -1309424721
+      M34 3-Ton Truck_19: 798684480
+      M34 3-Ton Truck_20: 1195867258
+      M34 3-Ton Truck_21: -124612075
+      M34 3-Ton Truck_22: -151672599
+      M34 3-Ton Truck_23: 2035131189
+      M34 3-Ton Truck_24: 1270692084
+      M34 3-Ton Truck_25: -1155881568
+      M34 3-Ton Truck_26: 1669504989
+      M34 3-Ton Truck_27: 103549723
+      M34 3-Ton Truck_28: 830925846
+      M34 3-Ton Truck_29: 1592772250
+      M34 3-Ton Truck_30: -2136721023
+      M34 3-Ton Truck_31: 1745600001
+      M34 3-Ton Truck_32: 2106936510
+      M34 3-Ton Truck_33: -1490321891
+      M34 3-Ton Truck_34: -540206514
+      M34 3-Ton Truck_35: -883496299
+      M34 3-Ton Truck_36: 1765224295
+      M34 3-Ton Truck_37: 1504874737
+      M34 3-Ton Truck_38: 809839687
+      M34 3-Ton Truck_40: -49742911
+      M34 3-Ton Truck_41: -1773573081
+      M34 3-Ton Truck_42: -342741381
+      M34 3-Ton Truck_43: -2133992684
+      M34 3-Ton Truck_44: -1014702257
+      M34 3-Ton Truck_45: 1461694315
+      M34 3-Ton Truck_46: 433922145
+      M34 3-Ton Truck_47: -148926991
+      M34 3-Ton Truck_48: 1553488008
+      M34 3-Ton Truck_49: -676808839
+      M34 3-Ton Truck_50: 108371678
+      M34 3-Ton Truck_51: 674947172
+      M34 3-Ton Truck_52: 825100960
+      M34 3-Ton Truck_54: -281514693
+      M34 3-Ton Truck_55: 797295087
+      M34 3-Ton Truck_56: -1040782835
+      M34 3-Ton Truck_57: 1959289448
+      M34 3-Ton Truck_58: 1654572253
+      M34 3-Ton Truck_59: -990263968
+      M34 3-Ton Truck_60: -820219523
+      M34 3-Ton Truck_61: -1296409735
+      M34 3-Ton Truck_62: 362050248
+      M34 3-Ton Truck_63: 719602783
+      M34 3-Ton Truck_64: -75922457
+      M34 3-Ton Truck_65: -1962117289
+      M34 3-Ton Truck_66: -287517294
+      M34 3-Ton Truck_67: -1997905181
+      M34 3-Ton Truck_68: -1149046113
+      M34 3-Ton Truck_70: 1909648386
+      M34 3-Ton Truck_71: -1750135533
+      M34 3-Ton Truck_72: -1803967405
+      M34 3-Ton Truck_73: 1969704300
+      M34 3-Ton Truck_74: 1375672757
+      M34 3-Ton Truck_75: -820210349
+      M34 3-Ton Truck_76: 1144204486
+      M34 3-Ton Truck_77: 124654211
+      M34 3-Ton Truck_78: -979903124
+      M34 3-Ton Truck_79: 55996949
+      M34 3-Ton Truck_80: 1318362589
+      M34 3-Ton Truck_81: 720927319
+      M34 3-Ton Truck_82: -550211074
+      M34 3-Ton Truck_83: 907338520
+      M34 3-Ton Truck_84: 229551603
+      M34 3-Ton Truck_85: -2055105962
+      M34 3-Ton Truck_86: -1389054691
+      M34 3-Ton Truck_87: 490782550
+      M34 3-Ton Truck_88: -916846404
+      M34 3-Ton Truck_89: 953682691
+      M34 3-Ton Truck_91: 1842867742
+      M34 3-Ton Truck_92: -475863320
+      M34 3-Ton Truck_93: 1109289733
+      M34 3-Ton Truck_94: 174445481
+      M34 3-Ton Truck_95: 2088337191
+      M34 3-Ton Truck_96: 1169438979
+      M34 3-Ton Truck_97: -461535243
+      M34 3-Ton Truck_98: 756672498
+      M34 3-Ton Truck_99: -599376555
+      Truck_Hurt0: 1739217974
+      Truck_Hurt1: 2105651726
+      Truck_deploy0: -137957101
+      Truck_deploy1: -648479129
+      Truck_deploy10: 1620751080
+      Truck_deploy11: 808608759
+      Truck_deploy2: -324003999
+      Truck_deploy3: 1134711589
+      Truck_deploy4: -823562846
+      Truck_deploy5: -1919760283
+      Truck_deploy6: -1296406782
+      Truck_deploy7: -636886723
+      Truck_deploy8: -681406405
+      Truck_deploy9: -2130938439
+      Truck_destroy0: 1110254005
+      Truck_destroy1: -837335235
+      Truck_destroy2: -654753882
+      Truck_destroy3: -891721196
+      Truck_destroy4: -969053844
+      Truck_destroy5: 1647379638
+      Truck_drive0: 1752914294
+      Truck_drive1: 844985369
+      Truck_drive2: 962489385
+      Truck_drive3: -664713662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
