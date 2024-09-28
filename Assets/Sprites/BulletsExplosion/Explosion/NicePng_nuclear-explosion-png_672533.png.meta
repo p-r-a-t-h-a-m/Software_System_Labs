@@ -1,0 +1,1987 @@
+fileFormatVersion: 2
+guid: d55bbc37a3f2b994492a366425218459
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 921
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b5ea565ebfa5f48a6118505543ebf8
+      internalID: 200980988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 918
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98def966cf0a74b9329ce77132ebe8
+      internalID: -396383038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 921
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4d5c0533c118c41b0b059621fa46e9
+      internalID: 777408309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 920
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ca112ac1deefb43ad4d7a283f614eb
+      internalID: -1878254650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_4
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 920
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1bad37c73acb46a325f194278ef4e
+      internalID: -1609447605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 688
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b18758fcc10fb1438f1b79a1fcc47d4
+      internalID: -61168316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 688
+        width: 118
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b50e65a1f28d46bd6bf231dd5dd67
+      internalID: 507129667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_7
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 689
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd61cca16f9c44147bcdbf370d872960
+      internalID: -580584150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 687
+        width: 142
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cd3f10e1a5cc469bf416f266cbc48
+      internalID: -398576745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_9
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 689
+        width: 151
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e5a897c032844088764451dea3d1d
+      internalID: -1440053728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 458
+        width: 175
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac1421054b270448d103bc45a9699a
+      internalID: -542270559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 457
+        width: 189
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e633c426a348834e9b606e7f930b55f
+      internalID: -329390940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_12
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 457
+        width: 191
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767eaa3dac4444343ac4e498e632ccc7
+      internalID: 14301544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_13
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 458
+        width: 207
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860aef58389b7db4c8f1f068b207139e
+      internalID: 2040242380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_14
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 457
+        width: 224
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f56f7c1a912a34bab08fcc8e867b6c
+      internalID: -239980277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 227
+        width: 227
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fd5e949be52f4bb0e7c6a0286eb2b
+      internalID: 595933812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 226
+        width: 247
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69955b4dc6a3014f939680ffdd21b8c
+      internalID: -901753691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 228
+        width: 252
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9fdb0de7ad57d40a2d2528d821fb2e
+      internalID: 1702424393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 230
+        width: 262
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c892622965889d344ba89b265e3cbb7f
+      internalID: -486106341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_19
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 232
+        width: 280
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efeb42da8dd48346ad3b9ebc1150a74
+      internalID: -1330441755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 278
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea0d756c5a8c14ca56ee1826f725c2
+      internalID: 1701639332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_22
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 161
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e042838c64db449b82f19992f5ff64
+      internalID: 557918650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_23
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 167
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f44904c79d12d4b8c9ad277446240e
+      internalID: 1541927940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_24
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 175
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48421f8c64e9d49886dd4d9e37e953
+      internalID: -2084756889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_25
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 176
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1bbc96b06adc4da13babac5af957d
+      internalID: 1912949451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_29
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 146
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51397d56f7b9cbe4cabe0369949fc35e
+      internalID: 1569765179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_30
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 152
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c73ade3b7b70c448a29ba2b0f63b02
+      internalID: -555286137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_31
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 152
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d45c451c7a1f4a9a2db8d1f37ed6f
+      internalID: -1842530619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_32
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 161
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf450b526e6e349b76d7820d2d70c5
+      internalID: -2010914839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_39
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 143
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa440379da96104f9342ade8e90d977
+      internalID: 720554235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_40
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 134
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99515c18e2eaf534697c9cd4138d8e42
+      internalID: 1285676436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_41
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 141
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a41a79e0c5874db1e494d88170286
+      internalID: 1591801295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_42
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 137
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513c6c33bdcc61543a72cfeaeb56d3dd
+      internalID: 2012881363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_43
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 137
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b22ba156067e4499811198ea37942a
+      internalID: -1563620153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_44
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 147
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6df413ddef165d4fb7db071edfecd45
+      internalID: 1637136094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_45
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 147
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc700eaba9068f4dbd3f2435b1fd5db
+      internalID: 1612548478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_49
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 134
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486048507169ab04a80b6c0146a6aa20
+      internalID: -1786342131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_50
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 121
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290adc06031ab543bb7ae924a049bc7
+      internalID: -1135832989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_51
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 126
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca7c1f997c065148978122437c5698d
+      internalID: 24751093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_52
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 127
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6561a62b30a6a45a617ebc18b01e24
+      internalID: 44437317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_57
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 114
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559c9fb42b63ca41a1f77048862a86f
+      internalID: -684246913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_58
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 122
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac8cb15bf603dc478b8ace435e214e6
+      internalID: -2117908984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_59
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 116
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48edeb880a7ae489152841c03cfe52
+      internalID: -1730448630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_60
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 121
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57665a8d075218f45957292d3b00cbc1
+      internalID: -1863297141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_61
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ac37c99e2ca21489e31795e2cf44f7
+      internalID: -508858453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_62
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 123
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bed78967c93784b80cb3e021500740
+      internalID: 1720401144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_68
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 107
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d925bd9642ebd45bb9b752c5d582e5
+      internalID: 512805129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_69
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 100
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f2fa35a799684bb66e9199b9d9ea6
+      internalID: 532530971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_70
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 92
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fc5bfea60ccdf44bb3349389dd40f1
+      internalID: 1391720410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_71
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 100
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea21a129564d9254ebb14444ef3378d1
+      internalID: -2046072469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_72
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 108
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a624e923d9d28a4d9ae0c3b659babae
+      internalID: 1920081612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_74
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 79
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0de8b94590b7f243b02992f7ed1e99c
+      internalID: -630973558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_75
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 82
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e45eab3a0be04aac391c95ce57aea
+      internalID: 1573796223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_76
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 87
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185efc7382091ff45b19f478b93be8ea
+      internalID: 1126070367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_77
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 96
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313d3be2c24c2f14a9697f221706f4e2
+      internalID: -2076279504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_78
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 93
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13a5c13b519fea41b0a204ddea3f96b
+      internalID: -323642727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_83
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 77
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f02af93468d83428c9cadb8442e126
+      internalID: -1750278186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_84
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 81
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e320a611c0a84ea0dbf86f5715c7b
+      internalID: -261319009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_85
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 73
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715778925c1b03546868223e3fbf21a8
+      internalID: 1667250723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_94
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 69
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84776a2b46f6b2443b9d73ef49c381cf
+      internalID: -557004233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_95
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 67
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e8e03dcf8717b4289ef3eb5d2e54e8
+      internalID: -1427443425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_96
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 62
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923b0af665ac0cd49b36988a59fab861
+      internalID: 1921831635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_97
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 65
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bed46145c1c046bc9ceed6102f12b
+      internalID: 2084333318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_98
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 63
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c857bddd3ea5843ae3a45d34c5ffb8
+      internalID: -1016413670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_99
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 68
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a33641f684524f84584983359dbd0
+      internalID: 556505295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_100
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 63
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00abaedbb4c4624d827e441f0d0e6ad
+      internalID: -1099789154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_101
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 70
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b275e860e88df44488f72843244c5c25
+      internalID: 247978659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_102
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 44
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76070f38311eac4aa24160506720a05
+      internalID: -448923364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_103
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 39
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612feebf794beaa4ab90be78a1af485f
+      internalID: 1972320281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_106
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 25
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca925b6637eba4a8704954122a8dec
+      internalID: -1381952567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_107
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a48df049b291f4d9962c779d3c1e09
+      internalID: -2128448528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_108
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 16
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0892a70ec0a3f2428f8f463135d8e70
+      internalID: 651876766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_117
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 6
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e7a258080bb54a935c9a52e7df0b4
+      internalID: -747873506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_118
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6ed658a8c084444b9084c31e1ea589
+      internalID: -555672372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_119
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 9
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7db701f42903394cbbf04b76ebbc3c1
+      internalID: 1720972001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_120
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 9
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a72f75b5f5509345b89600181b5d62d
+      internalID: 997547505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_121
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08fd068ae3b0fb458d87cd5bcd2ff6c
+      internalID: 907153780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_122
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 8
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2322c13b5f7b439f774cb31d50191
+      internalID: 202805144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_123
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 7
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806eb08e965ef964c83f192a998cc5f3
+      internalID: -120310764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_124
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9858fadf85d60479fcf30b9ce5a7d4
+      internalID: -85392270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 321
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672264722b1cf2b47910cfae298811c0
+      internalID: -908934179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_nuclear-explosion-png_672533_26
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 307
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6161595e43ee449960a004aa564425
+      internalID: 1478239080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NicePng_nuclear-explosion-png_672533_0: 200980988
+      NicePng_nuclear-explosion-png_672533_1: -396383038
+      NicePng_nuclear-explosion-png_672533_10: -542270559
+      NicePng_nuclear-explosion-png_672533_100: -1099789154
+      NicePng_nuclear-explosion-png_672533_101: 247978659
+      NicePng_nuclear-explosion-png_672533_102: -448923364
+      NicePng_nuclear-explosion-png_672533_103: 1972320281
+      NicePng_nuclear-explosion-png_672533_104: -928999755
+      NicePng_nuclear-explosion-png_672533_105: 915687149
+      NicePng_nuclear-explosion-png_672533_106: -1381952567
+      NicePng_nuclear-explosion-png_672533_107: -2128448528
+      NicePng_nuclear-explosion-png_672533_108: 651876766
+      NicePng_nuclear-explosion-png_672533_109: -1862972106
+      NicePng_nuclear-explosion-png_672533_11: -329390940
+      NicePng_nuclear-explosion-png_672533_110: 1691203756
+      NicePng_nuclear-explosion-png_672533_111: -1501786426
+      NicePng_nuclear-explosion-png_672533_112: 398107122
+      NicePng_nuclear-explosion-png_672533_113: 733292387
+      NicePng_nuclear-explosion-png_672533_114: -486806649
+      NicePng_nuclear-explosion-png_672533_115: -1218985568
+      NicePng_nuclear-explosion-png_672533_116: 233696835
+      NicePng_nuclear-explosion-png_672533_117: -747873506
+      NicePng_nuclear-explosion-png_672533_118: -555672372
+      NicePng_nuclear-explosion-png_672533_119: 1720972001
+      NicePng_nuclear-explosion-png_672533_12: 14301544
+      NicePng_nuclear-explosion-png_672533_120: 997547505
+      NicePng_nuclear-explosion-png_672533_121: 907153780
+      NicePng_nuclear-explosion-png_672533_122: 202805144
+      NicePng_nuclear-explosion-png_672533_123: -120310764
+      NicePng_nuclear-explosion-png_672533_124: -85392270
+      NicePng_nuclear-explosion-png_672533_13: 2040242380
+      NicePng_nuclear-explosion-png_672533_14: -239980277
+      NicePng_nuclear-explosion-png_672533_15: 595933812
+      NicePng_nuclear-explosion-png_672533_16: -901753691
+      NicePng_nuclear-explosion-png_672533_17: 1702424393
+      NicePng_nuclear-explosion-png_672533_18: -486106341
+      NicePng_nuclear-explosion-png_672533_19: -1330441755
+      NicePng_nuclear-explosion-png_672533_2: 777408309
+      NicePng_nuclear-explosion-png_672533_20: 1701639332
+      NicePng_nuclear-explosion-png_672533_21: -908934179
+      NicePng_nuclear-explosion-png_672533_22: 557918650
+      NicePng_nuclear-explosion-png_672533_23: 1541927940
+      NicePng_nuclear-explosion-png_672533_24: -2084756889
+      NicePng_nuclear-explosion-png_672533_25: 1912949451
+      NicePng_nuclear-explosion-png_672533_26: 1478239080
+      NicePng_nuclear-explosion-png_672533_27: -48355169
+      NicePng_nuclear-explosion-png_672533_28: 448419853
+      NicePng_nuclear-explosion-png_672533_29: 1569765179
+      NicePng_nuclear-explosion-png_672533_3: -1878254650
+      NicePng_nuclear-explosion-png_672533_30: -555286137
+      NicePng_nuclear-explosion-png_672533_31: -1842530619
+      NicePng_nuclear-explosion-png_672533_32: -2010914839
+      NicePng_nuclear-explosion-png_672533_33: -225661721
+      NicePng_nuclear-explosion-png_672533_34: 1102281980
+      NicePng_nuclear-explosion-png_672533_35: -2032646499
+      NicePng_nuclear-explosion-png_672533_36: 369812782
+      NicePng_nuclear-explosion-png_672533_37: -1017265040
+      NicePng_nuclear-explosion-png_672533_38: -1511278777
+      NicePng_nuclear-explosion-png_672533_39: 720554235
+      NicePng_nuclear-explosion-png_672533_4: -1609447605
+      NicePng_nuclear-explosion-png_672533_40: 1285676436
+      NicePng_nuclear-explosion-png_672533_41: 1591801295
+      NicePng_nuclear-explosion-png_672533_42: 2012881363
+      NicePng_nuclear-explosion-png_672533_43: -1563620153
+      NicePng_nuclear-explosion-png_672533_44: 1637136094
+      NicePng_nuclear-explosion-png_672533_45: 1612548478
+      NicePng_nuclear-explosion-png_672533_46: 982840324
+      NicePng_nuclear-explosion-png_672533_47: -371214627
+      NicePng_nuclear-explosion-png_672533_48: 1475882385
+      NicePng_nuclear-explosion-png_672533_49: -1786342131
+      NicePng_nuclear-explosion-png_672533_5: -61168316
+      NicePng_nuclear-explosion-png_672533_50: -1135832989
+      NicePng_nuclear-explosion-png_672533_51: 24751093
+      NicePng_nuclear-explosion-png_672533_52: 44437317
+      NicePng_nuclear-explosion-png_672533_53: 1526282793
+      NicePng_nuclear-explosion-png_672533_54: -1978060788
+      NicePng_nuclear-explosion-png_672533_55: -46205822
+      NicePng_nuclear-explosion-png_672533_56: -1017659911
+      NicePng_nuclear-explosion-png_672533_57: -684246913
+      NicePng_nuclear-explosion-png_672533_58: -2117908984
+      NicePng_nuclear-explosion-png_672533_59: -1730448630
+      NicePng_nuclear-explosion-png_672533_6: 507129667
+      NicePng_nuclear-explosion-png_672533_60: -1863297141
+      NicePng_nuclear-explosion-png_672533_61: -508858453
+      NicePng_nuclear-explosion-png_672533_62: 1720401144
+      NicePng_nuclear-explosion-png_672533_63: -1610391623
+      NicePng_nuclear-explosion-png_672533_64: 795420196
+      NicePng_nuclear-explosion-png_672533_65: 1198617620
+      NicePng_nuclear-explosion-png_672533_66: 1860037037
+      NicePng_nuclear-explosion-png_672533_67: -6410639
+      NicePng_nuclear-explosion-png_672533_68: 512805129
+      NicePng_nuclear-explosion-png_672533_69: 532530971
+      NicePng_nuclear-explosion-png_672533_7: -580584150
+      NicePng_nuclear-explosion-png_672533_70: 1391720410
+      NicePng_nuclear-explosion-png_672533_71: -2046072469
+      NicePng_nuclear-explosion-png_672533_72: 1920081612
+      NicePng_nuclear-explosion-png_672533_73: 684043007
+      NicePng_nuclear-explosion-png_672533_74: -630973558
+      NicePng_nuclear-explosion-png_672533_75: 1573796223
+      NicePng_nuclear-explosion-png_672533_76: 1126070367
+      NicePng_nuclear-explosion-png_672533_77: -2076279504
+      NicePng_nuclear-explosion-png_672533_78: -323642727
+      NicePng_nuclear-explosion-png_672533_79: -898181547
+      NicePng_nuclear-explosion-png_672533_8: -398576745
+      NicePng_nuclear-explosion-png_672533_80: 217743426
+      NicePng_nuclear-explosion-png_672533_81: -899155289
+      NicePng_nuclear-explosion-png_672533_82: 1482394347
+      NicePng_nuclear-explosion-png_672533_83: -1750278186
+      NicePng_nuclear-explosion-png_672533_84: -261319009
+      NicePng_nuclear-explosion-png_672533_85: 1667250723
+      NicePng_nuclear-explosion-png_672533_86: -664617438
+      NicePng_nuclear-explosion-png_672533_87: -746889495
+      NicePng_nuclear-explosion-png_672533_88: -163739290
+      NicePng_nuclear-explosion-png_672533_89: -1575945333
+      NicePng_nuclear-explosion-png_672533_9: -1440053728
+      NicePng_nuclear-explosion-png_672533_90: 1608635554
+      NicePng_nuclear-explosion-png_672533_91: 386924629
+      NicePng_nuclear-explosion-png_672533_92: 308954393
+      NicePng_nuclear-explosion-png_672533_93: 1502673532
+      NicePng_nuclear-explosion-png_672533_94: -557004233
+      NicePng_nuclear-explosion-png_672533_95: -1427443425
+      NicePng_nuclear-explosion-png_672533_96: 1921831635
+      NicePng_nuclear-explosion-png_672533_97: 2084333318
+      NicePng_nuclear-explosion-png_672533_98: -1016413670
+      NicePng_nuclear-explosion-png_672533_99: 556505295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

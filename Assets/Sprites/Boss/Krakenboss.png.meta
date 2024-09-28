@@ -1,0 +1,2914 @@
+fileFormatVersion: 2
+guid: 9c882e3c49427e04d9d981126d5ea40e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Krakenhurt
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4872
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf92573aab66a9489e4c427ce3a64af
+      internalID: -234091815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4802
+        width: 101
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a10ff7c64467141b88af84ff0642f2
+      internalID: 1909620616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4786
+        width: 108
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2dcfc10f8c30c4ea113c654b393924
+      internalID: -2118740287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 4772
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab733902c0cdf4c875668fdbb2b792
+      internalID: 1195665029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4763
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8292a5223a171f84cb7cd3577933677d
+      internalID: -2029214624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4757
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e71525f376518418b216a16f13aa52
+      internalID: 1024417861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4750
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4555fe41c7799498ef904450e5af7c
+      internalID: 1673785224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 4740
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7caad6d15cb4a41a22b60619ed5fff
+      internalID: 1239836569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 4708
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e546b8c85a0474f9c58c510db5f4d9
+      internalID: -1507367226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_9
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4710
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c48d9533ff9b71488d7076aca47cd5c
+      internalID: 1778558690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4758
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21816621078e4c84d821ec7c6c068854
+      internalID: 221996693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4731
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d2d2a00edd7d4cb863589422fa9c7
+      internalID: -5215626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4713
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc59d4fd66b11f648942a72dae3adb1a
+      internalID: -447288689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4708
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6acd4a980d83c4a8aee5d327a26953
+      internalID: -311961052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 4710
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a5e4fed0f62e49900958b14f4a342
+      internalID: 778869183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4646
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d920245761b91489c4f3a82e8ef24c
+      internalID: 701327432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4646
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37294b7408d31344180b28aa9d422d9e
+      internalID: 2067302459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4644
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516298b6035401548a1158259cdb6532
+      internalID: -1106464504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4644
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c483d0a617979264190bfa9b8f08ea41
+      internalID: 773377536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_25
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4648
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db343bbbbd48f2749b81a2d1b9fe9f4d
+      internalID: 1568004636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4611
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29178ce538f827341a698951398ee784
+      internalID: 920827383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_27
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4606
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeaf78b7869f7944a6230631228ef24
+      internalID: 1253913882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 4595
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8bad57bd9d004ab5b71338b772ebf
+      internalID: 985565508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4599
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fb941e39d981a40b96e38eef2c629d
+      internalID: -396841717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4516
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ade124373dd79458d901f15961f1fe
+      internalID: -1649784046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4516
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c8340308d60e84f8f223f482366a57
+      internalID: 1198104194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4517
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b932f6b36966fd54a9897ce052026b02
+      internalID: 1010304198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4517
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c957a67b81ab541a2314133a6c0dcf
+      internalID: 1544840012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_34
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 4517
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5a3d028e51f3f4880cb683b0942494
+      internalID: -1029327763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4516
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a904b939ca72c4f96c711410463876
+      internalID: -1170495184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4445
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdfcb46d822b6b48895bb2459a0e9d2
+      internalID: -1631563900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_37
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4445
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2e47e52f87b24486a27af5a9ddc92
+      internalID: 1247929605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4445
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a240427adb75f409040b365b0663b6
+      internalID: -1352640156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4445
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678642b37c7e4344b1d392a0ad7aa51
+      internalID: 242599157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_40
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 4445
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeef61ea6f401946a32585a6bc9509d
+      internalID: 1885582699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_41
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 4446
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d10cb5e8756e445be16a3fbb2f0a0d
+      internalID: -1707577846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4377
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015ba1283bfb0f42b1510247a3f6edc
+      internalID: 1639991399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4377
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa314747249c7742912b7b20ffa5210
+      internalID: 1246795951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_44
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 4377
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa404dffb58fe84e9d6c7f74745fd17
+      internalID: 1439168704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4377
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09592596b0bc7b443b80a79162f32f51
+      internalID: 1040515482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3712
+        width: 187
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5c37e7928d4dd4dbd590194c93fb17
+      internalID: 1410565710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3655
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba01de1f19dda46a1ae0a47b48152f
+      internalID: -1203156915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3596
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3730fd23c2cea74d841366d8ed5d3a5
+      internalID: 1171330161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3597
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6a1a524fecddf4ebb0ca934fc3b7fe
+      internalID: -441892882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3598
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1648fb724ce9afd41973eeef67198e85
+      internalID: -973949758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3598
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a94ccf6887f7542be886ad00ab1ba1
+      internalID: 2113402428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3597
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73675abadeb7da5488da861028e8a386
+      internalID: -1089653204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3596
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d5b13224739c4690714ebafd807b2
+      internalID: 1666963941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3539
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dab91382b5a9b469c8a85f649c9933
+      internalID: 730446287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3539
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d562cb049392844964411f5c7c2a4f
+      internalID: 1420088227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3407
+        width: 216
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6621a597a8f281f44ac66427ea468bb4
+      internalID: 477880734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3455
+        width: 87
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1784dc76782432b4aa693f98388b80c6
+      internalID: -2108329605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3415
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9137e098a1ddba24398f9369394a6143
+      internalID: 1625019603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_59
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3420
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401ecb89a551df5479c04114cc864aa0
+      internalID: -749195967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3371
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a137c0962795154888a1fb55ef6b15d
+      internalID: 1687817707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_61
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3340
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd413c1cce395ef4e954d2b010e85f43
+      internalID: -635380350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_62
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3320
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b916d9f7327d6942b5e19c28120339b
+      internalID: -945793410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3331
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd736719909742479a807d1bc4899d3
+      internalID: 1034286636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3265
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f617420ebe63790489fcec7f9cd373b1
+      internalID: -1641667783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_65
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3261
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb28b2cf6229f3409ab247dad5a4c37
+      internalID: -759300527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3259
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abcfcbebde37914bb4ad0515038af1c
+      internalID: 1625096625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3259
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f7df652c2550346a95ff0c6f9b2ef0
+      internalID: -1667478506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3208
+        width: 87
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b938fbf2262622c449cc0a587ec1b4b8
+      internalID: -1053710386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3207
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab210484c854a504882974bd5bfea652
+      internalID: 61824803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3207
+        width: 105
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2561eedbe9b4a419ed6a8daec6e194
+      internalID: 805271514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_71
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3208
+        width: 104
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f027ce6481b34a9405cd0a9dd37e0
+      internalID: -1382934202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_72
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3158
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f47bfa025db640bb90b219989b94b
+      internalID: 364952919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3158
+        width: 92
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da68dcd510b98c46b20cc34620d5df4
+      internalID: 1357342851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2549
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6b20ce2d992540816defa945c2d04
+      internalID: -929507879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_75
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2549
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbd1f1e62c78c4fa762c23361941d9
+      internalID: -83671883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2549
+        width: 86
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714c0a16986b5f74d8361939fcb79876
+      internalID: 2089915524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2549
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cc4490b10b1c94f8b82528ebae5e5d
+      internalID: 30205451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_78
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2549
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e72e265bec7824ca14775f33cb394c
+      internalID: -870880809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2427
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca96fafd4bd82444fbe10c5e958910e1
+      internalID: 1113050418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2427
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3aab5e234d12a42b01a99c2124c0d5
+      internalID: 784986073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2427
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4accdfbd9e79b43afbb30cea9b4649
+      internalID: 1007150850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d736a16f837c6543a1761e00c3f07a8
+      internalID: 1984158234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_83
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111fb44fc24e454c9c71c52ea6ef048
+      internalID: 371031739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_84
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab3a7603911c574d81045541826ec49
+      internalID: 1853764882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b71c6d8017e2a4b9166690b2d587ec
+      internalID: 1703265698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_86
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c875dbc9eb79469626cbdc32f04d2
+      internalID: -1267241070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_87
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2379
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba173f9bb3ab6034d81eec7dfcec8ad0
+      internalID: 752982202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbomb3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2235
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc6f918e2ac3942bd608140724155b
+      internalID: -925480313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbomb2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2235
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a37d76a20e9cac4eb3651bf15fb4c03
+      internalID: -1496528192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbomb1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2234
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b372048c3115b0f46bbb66b66720e84a
+      internalID: -837739468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbomb0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2235
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8186152f7b01543ba682cd51b6b97a
+      internalID: -1639393306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbombactiv0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2084
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c757340de2881e4384e32b6ac9df642
+      internalID: 1374963987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbombactiv1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2084
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa3857d0e47767418a692c0fea5bc2d
+      internalID: -2105492539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbombactiv2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2084
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560bc33fe11ee2541a9ec25eeed8cf89
+      internalID: 1512331140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbombactiv3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2084
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314da6b5b161cdb4faf697a51e57eef9
+      internalID: -1419610666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kbombactiv4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2083
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7fd80f9182a9241ad7b650ca04188a
+      internalID: 1258657081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_97
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2005
+        width: 92
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e408c994e2bbe654fae6394acb3a1dfc
+      internalID: -1224079785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_99
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2005
+        width: 167
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6f56d66b121242a72dbaa06e3d811
+      internalID: -543834505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_102
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2003
+        width: 133
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06deb9f900918564a93c562f29d1981b
+      internalID: -185908704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_110
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1923
+        width: 174
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9250f79e696c544790f637a5fee5a5e
+      internalID: 1947506474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_113
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1922
+        width: 165
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c98885efb9ae4ba1a711c8e3d6d8c
+      internalID: 280052405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1841
+        width: 177
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ecf1336cd99464bb33e509c8e13a4a
+      internalID: 3770943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_122
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1795
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542889d768b71742923cf5f60ea0960
+      internalID: 2003167024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_123
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1788
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd504e78b78ae42b82bd83e0f6a298
+      internalID: -2132087695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1777
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ad6f7291dbca14982d6181436f79a1
+      internalID: 124823817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1775
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6eba470722fa4a8f1db1f8018b122
+      internalID: 201350374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_126
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1772
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac67c104ba7404468ead03e3896337c
+      internalID: -90068470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_152
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1786
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a164e140de324988241a9640aeac9
+      internalID: 1377899534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_181
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1751
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971e4fe4a478264bb59f1946f0b963d
+      internalID: 1195314589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenbullet0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1669
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fad52986c74064d8df0dffa64f3ebf
+      internalID: 173525626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenbullet1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1669
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7d2536ed4b8bc418dc3751d776fd9e
+      internalID: -1420131436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenbullet3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1669
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd320ee96bc13d4eb06552a082522b9
+      internalID: -1539198273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krake_dead
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1189
+        width: 240
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b54e4fe815ab34caf39e717f67add5
+      internalID: 1363670027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1139
+        width: 239
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e021d109a8f7742b385eda3cf1542c
+      internalID: -314101563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1139
+        width: 238
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521c337e74b4084a88e9c0f828fb33c
+      internalID: 718475027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1073
+        width: 240
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9f158d4240f64e9050f3474defd8e
+      internalID: 1546221806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1073
+        width: 242
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360cce890a5d41c4697079a6afffe929
+      internalID: -144294541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1023
+        width: 238
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87a749a16f82924bac5883139f2d8d6
+      internalID: -83140428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1024
+        width: 237
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ce6b019bb5b1e469e272f4dff47494
+      internalID: -44261313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 956
+        width: 241
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc98cce66c08b224d8f1c85e935ac069
+      internalID: 362674209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 957
+        width: 241
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb1bc1d2f2e7b543ac9c6534dee59c3
+      internalID: -992220674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 892
+        width: 238
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c589d24d72a8540844bdf6b68b4f89
+      internalID: 238990420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava9
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 892
+        width: 239
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4eb17547f043da4792455fbfc116509
+      internalID: 242743457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 824
+        width: 237
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc949e130039344582b21b84b75e2d1
+      internalID: 1823188755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_202
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 862
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66e304c35a4d441877e5ca81872b61
+      internalID: -2134058660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Klava11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 825
+        width: 236
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59b27874d30de45909c76f427758a2
+      internalID: 1588630283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_18
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1771
+        width: 81
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d5718d701d134ba8ea13124712607
+      internalID: 988130845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Krakenboss_19
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1774
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee9d9e95f31c649a2f751ff945f755
+      internalID: 237657947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kbomb0: -837739468
+      Kbomb1: -1496528192
+      Kbomb2: -925480313
+      Kbomb3: 1374963987
+      Kbombactiv0: -2105492539
+      Kbombactiv1: 1512331140
+      Kbombactiv2: -1419610666
+      Kbombactiv3: 1258657081
+      Kbombactiv4: 173525626
+      Klava0: -314101563
+      Klava1: 718475027
+      Klava10: 1823188755
+      Klava11: 1588630283
+      Klava2: 1546221806
+      Klava3: -144294541
+      Klava4: -83140428
+      Klava5: -44261313
+      Klava6: -992220674
+      Klava7: 362674209
+      Klava8: 238990420
+      Klava9: 242743457
+      Krake_dead: 1195665029
+      Krakenboss: -234091815
+      Krakenboss_1: 1909620616
+      Krakenboss_10: 221996693
+      Krakenboss_100: 750913575
+      Krakenboss_101: -1484270306
+      Krakenboss_102: -185908704
+      Krakenboss_103: -2074636865
+      Krakenboss_104: -1564897861
+      Krakenboss_105: 1498708204
+      Krakenboss_106: 2040433204
+      Krakenboss_107: 888080944
+      Krakenboss_108: 2044501632
+      Krakenboss_109: -471026967
+      Krakenboss_11: -5215626
+      Krakenboss_110: 1947506474
+      Krakenboss_111: -647032340
+      Krakenboss_112: 1694188968
+      Krakenboss_113: 280052405
+      Krakenboss_114: 2036509212
+      Krakenboss_115: -706343110
+      Krakenboss_116: -89371786
+      Krakenboss_117: -1005446146
+      Krakenboss_118: -1934516267
+      Krakenboss_119: 1692782492
+      Krakenboss_12: -447288689
+      Krakenboss_120: -504072143
+      Krakenboss_121: 3770943
+      Krakenboss_122: 2003167024
+      Krakenboss_123: -2132087695
+      Krakenboss_124: 124823817
+      Krakenboss_125: 201350374
+      Krakenboss_126: -90068470
+      Krakenboss_127: -1621203403
+      Krakenboss_128: 1636084526
+      Krakenboss_129: -930382107
+      Krakenboss_13: -311961052
+      Krakenboss_130: 1359416381
+      Krakenboss_131: -1052779141
+      Krakenboss_132: -383148006
+      Krakenboss_133: 1907071629
+      Krakenboss_134: -1260993204
+      Krakenboss_135: -1987919164
+      Krakenboss_136: -1211940411
+      Krakenboss_137: -1599685037
+      Krakenboss_138: -443493240
+      Krakenboss_139: 308261137
+      Krakenboss_14: 778869183
+      Krakenboss_140: -527746398
+      Krakenboss_141: 1453625760
+      Krakenboss_142: -1910326814
+      Krakenboss_143: 291832551
+      Krakenboss_144: 1728455437
+      Krakenboss_145: -786220181
+      Krakenboss_146: 1870525490
+      Krakenboss_147: 41364330
+      Krakenboss_148: -1232928920
+      Krakenboss_149: -1727981401
+      Krakenboss_15: 701327432
+      Krakenboss_150: 1800870994
+      Krakenboss_151: -375955711
+      Krakenboss_152: 1377899534
+      Krakenboss_153: 37740224
+      Krakenboss_154: -228751154
+      Krakenboss_155: 560415840
+      Krakenboss_156: 796571449
+      Krakenboss_157: -379507998
+      Krakenboss_158: -662161880
+      Krakenboss_159: 2146408523
+      Krakenboss_16: 2067302459
+      Krakenboss_160: 420220480
+      Krakenboss_161: 453087495
+      Krakenboss_162: 142366251
+      Krakenboss_163: -520664976
+      Krakenboss_164: -1555692545
+      Krakenboss_165: -1783382870
+      Krakenboss_166: 1884010516
+      Krakenboss_167: -1337262446
+      Krakenboss_168: 233736461
+      Krakenboss_169: 1324007550
+      Krakenboss_17: -1106464504
+      Krakenboss_170: 474598449
+      Krakenboss_171: -1386390297
+      Krakenboss_172: -314956832
+      Krakenboss_173: 552777798
+      Krakenboss_174: 1038227197
+      Krakenboss_175: -492308636
+      Krakenboss_176: -141023421
+      Krakenboss_177: -446856509
+      Krakenboss_178: -1567284461
+      Krakenboss_179: 792896709
+      Krakenboss_18: 988130845
+      Krakenboss_180: 744544938
+      Krakenboss_181: 1195314589
+      Krakenboss_182: -359195701
+      Krakenboss_183: -2092171747
+      Krakenboss_184: -1071222154
+      Krakenboss_19: 237657947
+      Krakenboss_196: -992220674
+      Krakenboss_199: 242743457
+      Krakenboss_2: -2118740287
+      Krakenboss_20: 1077586482
+      Krakenboss_202: 1588630283
+      Krakenboss_21: 773377536
+      Krakenboss_22: -422664807
+      Krakenboss_23: -788451651
+      Krakenboss_24: 298430902
+      Krakenboss_25: 1568004636
+      Krakenboss_26: 920827383
+      Krakenboss_27: 1253913882
+      Krakenboss_28: 985565508
+      Krakenboss_29: -396841717
+      Krakenboss_30: -1649784046
+      Krakenboss_31: 1198104194
+      Krakenboss_32: 1010304198
+      Krakenboss_33: 1544840012
+      Krakenboss_34: -1029327763
+      Krakenboss_35: -1170495184
+      Krakenboss_36: -1631563900
+      Krakenboss_37: 1247929605
+      Krakenboss_38: -1352640156
+      Krakenboss_39: 242599157
+      Krakenboss_4: -2029214624
+      Krakenboss_40: 1885582699
+      Krakenboss_41: -1707577846
+      Krakenboss_42: 1639991399
+      Krakenboss_43: 1246795951
+      Krakenboss_44: 1439168704
+      Krakenboss_45: 1040515482
+      Krakenboss_46: 1410565710
+      Krakenboss_47: -1203156915
+      Krakenboss_48: 1171330161
+      Krakenboss_49: -441892882
+      Krakenboss_5: 1024417861
+      Krakenboss_50: -973949758
+      Krakenboss_51: 2113402428
+      Krakenboss_52: -1089653204
+      Krakenboss_53: 1666963941
+      Krakenboss_54: 730446287
+      Krakenboss_55: 1420088227
+      Krakenboss_56: 477880734
+      Krakenboss_57: -2108329605
+      Krakenboss_58: 1625019603
+      Krakenboss_59: -749195967
+      Krakenboss_6: 1673785224
+      Krakenboss_60: 1687817707
+      Krakenboss_61: -635380350
+      Krakenboss_62: -945793410
+      Krakenboss_63: 1034286636
+      Krakenboss_64: -1641667783
+      Krakenboss_65: -759300527
+      Krakenboss_66: 1625096625
+      Krakenboss_67: -1667478506
+      Krakenboss_68: -1053710386
+      Krakenboss_69: 61824803
+      Krakenboss_7: 1239836569
+      Krakenboss_70: 805271514
+      Krakenboss_71: -1382934202
+      Krakenboss_72: 364952919
+      Krakenboss_73: 1357342851
+      Krakenboss_74: -929507879
+      Krakenboss_75: -83671883
+      Krakenboss_76: 2089915524
+      Krakenboss_77: 30205451
+      Krakenboss_78: -870880809
+      Krakenboss_79: 1113050418
+      Krakenboss_8: -1507367226
+      Krakenboss_80: 784986073
+      Krakenboss_81: 1007150850
+      Krakenboss_82: 1984158234
+      Krakenboss_83: 371031739
+      Krakenboss_84: 1853764882
+      Krakenboss_85: 1703265698
+      Krakenboss_86: -1267241070
+      Krakenboss_87: 752982202
+      Krakenboss_9: 1778558690
+      Krakenboss_97: -1224079785
+      Krakenboss_98: -1653682797
+      Krakenboss_99: -543834505
+      Krakenbullet0: 173525626
+      Krakenbullet1: -1420131436
+      Krakenbullet3: -1539198273
+      Krakenhurt: -1639393306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
