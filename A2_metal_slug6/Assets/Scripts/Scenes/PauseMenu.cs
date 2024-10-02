@@ -68,7 +68,7 @@ public class PauseMenu : MonoBehaviour
     {
         isPaused = false;
         Time.timeScale = 1f;  // Resume game time before switching scenes
-        SceneManager.LoadScene("Menu");
+        SceneManager.LoadScene("Main_Menu");
     }
 
     public void QuitGameButton()

@@ -14,9 +14,18 @@ public class StartMenu : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "Welcome")
         {
-            StartCoroutine(LoadSceneWithDelay("Main_Menu"));
+            StartCoroutine(LoadSceneWithDelay("creator"));
+
         }
     }
+
+    //void Update()
+    //{
+        //if (SceneManager.GetActiveScene().name == "Creator")
+        //{
+          //  StartCoroutine(LoadSceneWithDelay("Main_Menu"));
+        //}
+    //}
 
     public void StartMenuButton()
     {
@@ -53,7 +62,7 @@ public class StartMenu : MonoBehaviour
     // Coroutine to load scene with a 3-second delay
     private IEnumerator LoadSceneWithDelay(string sceneName)
     {
-        yield return new WaitForSeconds(1.5f);  // Wait for 3 seconds
-        SceneManager.LoadScene(sceneName);    // Load theÂ scene
-}
+        yield return new WaitForSeconds(1f);  // Wait for 3 seconds
+        SceneManager.LoadScene(sceneName);    // Load the scene
+    }
 }

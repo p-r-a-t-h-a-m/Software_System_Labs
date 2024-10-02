@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: -3187497208665869843}
   m_Layer: 0
   m_Name: FlameThrowerBullet1
-  m_TagString: Untagged
+  m_TagString: bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125,6 +125,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bulletSpeed: 25
   damageIntensity: 30
+  lifeTime: 5
 --- !u!114 &-4837144505719921440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -211,3 +212,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 075c54e0b22aeba43bd6d875aadcd2ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  displayScore: {fileID: 0}

@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BulletScript : MonoBehaviour
 {
@@ -29,5 +31,13 @@ public class BulletScript : MonoBehaviour
             enemy.damage(damageIntensity);
             Destroy(gameObject);
         }
-}
+
+        if (collision.gameObject.CompareTag("UniversalBoss") && enemy != null)
+        {
+            Debug.Log("Bullet Collided with universal boss");
+            //enemy.damage(damageIntensity);
+            Destroy(gameObject);
+
+        }
+    }
 }

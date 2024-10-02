@@ -1,4 +1,6 @@
 using System.Collections;
+using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class EnemyLife : MonoBehaviour
@@ -30,12 +32,14 @@ public class EnemyLife : MonoBehaviour
             isDead = true;
             anim.SetTrigger("isEnemyDead");
             GetComponent<EnemyFire>().enabled = false;  // Disable shooting
+            //destroyObject();
         }
     }
 
     // Function to handle the enemy destruction
     private void destroyObject()
-    {        
+    {
+        
         Destroy(gameObject);  // Destroy the enemy object after the delay
     }
 }
