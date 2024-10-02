@@ -11,6 +11,9 @@ TagManager:
   - Life
   - Coin
   - PowerUp
+  - UniversalBoss
+  - EnemiesBullet
+  - bullet
   layers:
   - Default
   - TransparentFX
